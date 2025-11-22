@@ -64,7 +64,12 @@ Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique**](https://ieeexplore.ieee.org/document/11222828)
+<p>
+<a href="https://ieeexplore.ieee.org/document/10494589"
+   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
+Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique
+</a>
+</p>
 
 **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao <br>
 ***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
