@@ -96,8 +96,6 @@ Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu* and Junfa Mao, “Real-T
 Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, “Multi-Chirps Convolution Technique for Range Spectrum Signal Enhancement Based on a 60-GHz MIMO FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS)*, 2023. **
 <span style="color:#b30000;">(Selected for the MVC Competition Finalist)</span>
 
-- <div class="badge">CVPR 2016</div>
-Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, “Multi-Chirps Convolution Technique for Range Spectrum Signal Enhancement Based on a 60-GHz MIMO FMCW Radar,” ***IEEE MTT-S International Wireless Symposium (IWS)*, 2023. **
 
 # 🎖 Honors and Awards
 - *2025.11* CSRSWTC 2025 Best Paper Award
