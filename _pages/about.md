@@ -58,6 +58,12 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - IMS2025 Jiayu Zhang, Shuqin Dong, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu* and Junfa Mao, “Accurate Doppler Cardiogram Sensing With Frequency-Domain Digital Beamforming Technique Based on a K-Band Biomedical Radar,” *IEEE MTT-S International Microwave Symposium (IMS)*, 2025.
 - IMS2025 Jiayu Zhang, Zhiwei Zhang, Yuchen Li, Changzhan Gu* and Junfa Mao, “Accurate Large-Scale Motion Sensing With FMCW Radar Based on Range-Dependent DFT Technique,” IEEE MTT-S International Microwave Symposium (IMS), 2025.
 
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CSRSWTC2025</span>
+  Zhiwei Zhang, **Jiayu Zhang**, Jingtao Liu, Liling Wang and Changzhan Gu*, “A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection,”
+  *Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC)*, **2025**.
+  <span style="color:#b30000;">(Best Paper Award)</span>
+
+
 # 🎖 Honors and Awards
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
