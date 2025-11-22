@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a second-year Ph.D. student in the [School of Integrated Circuits (School of Information Science and Electronic Engineering)](https://icisee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by Prof. [Changzhan Gu](https://changzhan.sjtu.edu.cn/index.html). 
+I am currently a second-year Ph.D. student in the [School of Integrated Circuits (School of Information Science and Electronic Engineering)](https://icisee.sjtu.edu.cn/) at Shanghai Jiao Tong University of China, where I am supervised by [Prof. Changzhan Gu](https://changzhan.sjtu.edu.cn/index.html). 
 
 My research interest includes full-duplex integrated radar microsystem and antenna design. I have published more than 20 papers.
 
