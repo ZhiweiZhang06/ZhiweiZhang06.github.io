@@ -43,19 +43,28 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 
 # 📝 Publications 
 # Journal Papers:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar](https://ieeexplore.ieee.org/document/11222828)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhiwei Zhang**, Jingtao Liu, Jiayu Zhang, Yijing Guo and Changzhan Gu* <br>
+***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
+- This paper presents the first investigation into the influence of NLFM on displacement motion sensing, supported by theoretical derivations, simulation, and experimental validations.
+- Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique](https://ieeexplore.ieee.org/document/11222828)
+
+**Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao <br>
+***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
+- This technology can be applied to enhance motion sensing in millimeter-wave radar.
+- Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.
+
+
+
 
 # Conference Papers:
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">APMC2025</span>
