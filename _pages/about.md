@@ -90,14 +90,14 @@ Lina Ma, **Zhiwei Zhang**, Fei Tong, Shaobin Liu, Changzhan Gu*, "A Compact Co-L
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE MWTL</span>
  Jiayu Zhang, Yuchen Li, **Zhiwei Zhang**, Changzhan Gu*, and Junfa Mao, "Frequency-Spatial Adaptive Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar," ***IEEE Microwave and Wireless Technology Letters***, vol. 35, no. 6, pp. 888-891, Jun. 2025, doi: 10.1109/LMWT.2025.3557216. 
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE TMTT</span>
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Frequency-Domain Leakages and Stationary Clutters Cancellation Technique With a K-Band Short-Range End-to-end Sparse MIMO FMCW Radar System,” 
 ***IEEE Transactions on Microwave Theory and Techniques***, 2025, doi: 10.1109/TMTT.2025.3565631.
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE TMTT</span>
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
 Fei Tong, **Zhiwei Zhang** and Changzhan Gu*, "A Dual-Phase-Locked-Loop Single-Sideband Low-IF Radar with Asynchronous Bandpass Sampling for Precise Displacement Motion Detection," ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 11, pp. 6263-6274, Nov. 2024, doi: 10.1109/TMTT.2024.3406611.
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE TMTT</span>
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Target Detection with Short-Range FMCW Radar based on Time-Frequency Characteristic-Based Leakage Cancellation Technique,” 
 ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 4, pp. 2318-2331, April 2024, doi: 10.1109/TMTT.2024.3360324.
 
