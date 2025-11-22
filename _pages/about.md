@@ -17,17 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a second-year Ph.D student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University of China, where I am supervised by Prof. Changzhan Gu. 
 
+My research interest includes full-duplex integrated radar microsystem and antenna design. I have published more than 10 papers and I have been involved in projects such as National Key R&D Program of China and Natural Science Foundation Program of China.
+
+# 📖 Educations
+- *2024.09 - Present*, PhD in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China
+State Key Laboratory of Radio Frequency Heterogeneous Integration.
+- *2022.09 - 2024.09*, M.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China
+State Key Laboratory of Radio Frequency Heterogeneous Integration.
+- *2018.09 - 2022.06*, B.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
+# Journal Papers:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,13 +49,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Conference Papers:
+- CSRSWTC2025 Zhiwei Zhang, Jiayu Zhang, Jingtao Liu, Liling Wang and Changzhan Gu*, “A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection,” *Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025*. <font color='red'> (Best Paper Award) <\font>
+- NCANT2025 张志伟, 张嘉宇 和 顾昌展*, “一种基于FOWLP工艺的60 GHz宽带背腔封装天线,” *全国天线年会(NCANT)*, 2025. <font color='red'> (Selected for the Best Student Paper Finalist) <\font>
+- APMC2025 Zhiwei Zhang, Keke Zheng, Jiayu Zhang, Yijing Guo and Changzhan Gu*, “Robust Heart-Rate Monitoring Under Sleep Postural Variability Using a 24-GHz MIMO FMCW Radar,” *IEEE Asia-Pacific Microwave Conference (APMC)*, 2025.
+- APMC2025 Jiayu Zhang, Yuchen Li, Zhiwei Zhang, Yiyan Cao, Changzhan Gu* and Junfa Mao, “A Portable K-Band 4-D MIMO FMCW Radar System with Sparse Array for Short-Range Dual-Hand Gesture Sensing,” *IEEE Asia-Pacific Microwave Conference (APMC)*, 2025.
+- Keke Zheng, Zhiwei Zhang, Jiayu Zhang, Yijing Guo, Liling Wang and Changzhan Gu*, “A Robust and Accurate Sleep Apnea Detection Framework Based on a K-Band FMCW MIMO Radar,” *IEEE Asia-Pacific Microwave Conference (APMC)*, 2025.
+- IMS2025 Jiayu Zhang, Shuqin Dong, Yuchen Li, Yiyan Cao, Zhiwei Zhang, Changzhan Gu* and Junfa Mao, “Accurate Doppler Cardiogram Sensing With Frequency-Domain Digital Beamforming Technique Based on a K-Band Biomedical Radar,” *IEEE MTT-S International Microwave Symposium (IMS)*, 2025.
+- IMS2025 Jiayu Zhang, Zhiwei Zhang, Yuchen Li, Changzhan Gu* and Junfa Mao, “Accurate Large-Scale Motion Sensing With FMCW Radar Based on Range-Dependent DFT Technique,” IEEE MTT-S International Microwave Symposium (IMS), 2025.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *2025.11* CSRSWTC 2025 Best Paper Award
+- *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
+- *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
+- *2024.05* IEEE MTT-S IWS 2024 MVC Competition Third Place Winner
+
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
