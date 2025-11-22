@@ -73,7 +73,23 @@ Jiayu Zhang, Shuqin Dong, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu* 
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IMS2025</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu* and Junfa Mao, “Accurate Large-Scale Motion Sensing With FMCW Radar Based on Range-Dependent DFT Technique,” ***IEEE MTT-S International Microwave Symposium (IMS)*, 2025.**
 
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">Aces-China2024</span>
+Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu* and Junfa Mao, “Target Localization and Vital Signs Monitoring Based on Spatial-Temporal-Frequency Characteristics With Short-Range FMCW Radar,” ** _International Applied Computational Electromagnetics Society Symposium (Aces-China)_, 2024.**
+<span style="color:#b30000;">(Best Student Paper Award, 1st Prize)</span>
 
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">ICMMT2024</span>
+Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu* and Junfa Mao, “Real-Time Human Motion Tracking Technique Based On a 77 GHz FMCW MIMO Radar System,” **_International Conference on Microwave and Millimeter Wave Technology (ICMMT)_, 2024.**
+
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IWS2024</span>
+**Zhiwei Zhang**, Jiayu Zhang, Yuchen Li and Changzhan Gu*, “Enhanced Micrometer-Scale Motion Sensing Using a Reconfigurable Virtual CW Algorithm Based on 60 GHz FMCW Radar,” **_IEEE MTT-S International Wireless Symposium (IWS)_, 2024.** 
+<span style="color:#b30000;">(IEEE MTT-S MVC Competition Third Place Winner)</span>
+
+
+IWS2024 Keke Zheng, Jiayu Zhang, Yuchen Li, Changzhan Gu* and Junfa Mao, “A Novel Data-Based DC Offset Calibration Technique for Millimeter-wave Interferometric Sensing of Weak Displacement Motions,” IEEE MTT-S International Wireless Symposium (IWS), 2024. (IEEE MTT-S Flash Competition Second Place Winner)
+IMS2024 Zhiwei Zhang, Fei Tong, Jiayu Zhang and Changzhan Gu*, “A Cost-Effective Single-Channel Displacement Measurement Technique Without Down-Conversion Using Low-IF Doppler Radar,” IEEE MTT-S International Microwave Symposium (IMS), 2024.
+IWS2023 Jiayu Zhang, Yuchen Li, Wenjie Li, Zhiwei Zhang, Changzhan Gu* and Junfa Mao, “Multi-Chirps Convolution Technique for Range Spectrum Signal Enhancement Based on a 60-GHz MIMO FMCW Radar,” IEEE MTT-S International Wireless Symposium (IWS), 2023. (Selected for the MVC Competition Finalist)
+IWS2023 Zhiwei Zhang, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao, “Accurate Heart Rate Estimation Based on Multi-Channel Cross-Correlation with a 60-GHz FMCW Radar,” IEEE MTT-S International Wireless Symposium (IWS), 2023. (Selected for the Flash Competition Finalist)
 
 # 🎖 Honors and Awards
 - *2025.11* CSRSWTC 2025 Best Paper Award
