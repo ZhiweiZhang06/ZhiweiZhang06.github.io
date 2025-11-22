@@ -46,7 +46,12 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025zzw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar](https://ieeexplore.ieee.org/document/11222828)
+<p>
+<a href="https://ieeexplore.ieee.org/document/11222828"
+   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
+Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar
+</a>
+</p>
 
 **Zhiwei Zhang**, Jingtao Liu, Jiayu Zhang, Yijing Guo and Changzhan Gu* <br>
 ***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
@@ -59,7 +64,7 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique](https://ieeexplore.ieee.org/document/11222828)
+[**Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique**](https://ieeexplore.ieee.org/document/11222828)
 
 **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao <br>
 ***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
