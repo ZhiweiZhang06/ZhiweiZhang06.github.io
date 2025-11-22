@@ -78,6 +78,29 @@ Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurabl
 </div>
 </div>
 
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
+Jiayu Zhang, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2025, doi: 10.1109/TMTT.2025.3615997.
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE Sensor J.</span>
+Jiayu Zhang, Zhiwei Zhang, Yuchen Li, Changzhan Gu*, and Junfa Mao, "Reconfigurable Frequency-Spatial Equivalent Array Based on FMCW Radar for Accurate Close-Spaced Multi-Targets Motions Sensing," *IEEE Sensors Journal*, vol. 25, no. 10, pp. 17975-17986, May 2025, doi: 10.1109/JSEN.2025.3559347.
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE IoTJ</span>
+Lina Ma, **Zhiwei Zhang**, Fei Tong, Shaobin Liu, Changzhan Gu*, "A Compact Co-Linearly Polarized Full-Duplex Patch Antenna with High Isolation and Broadside Symmetrical Radiation Pattern for Integrated Sensing and Communication in IoT," ***IEEE Internet of Things Journal***, vol. 12, no. 12, pp. 21630-21645, Jun. 2025, doi: 10.1109/JIOT.2025.3547431.
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE MWTL</span>
+ Jiayu Zhang, Yuchen Li, **Zhiwei Zhang**, Changzhan Gu*, and Junfa Mao, "Frequency-Spatial Adaptive Beamforming Technique for Range-Angle Decoupling With High-Resolution MIMO Radar," ***IEEE Microwave and Wireless Technology Letters***, vol. 35, no. 6, pp. 888-891, Jun. 2025, doi: 10.1109/LMWT.2025.3557216. 
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE TMTT</span>
+Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Frequency-Domain Leakages and Stationary Clutters Cancellation Technique With a K-Band Short-Range End-to-end Sparse MIMO FMCW Radar System,” 
+***IEEE Transactions on Microwave Theory and Techniques***, 2025, doi: 10.1109/TMTT.2025.3565631.
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE TMTT</span>
+Fei Tong, **Zhiwei Zhang** and Changzhan Gu*, "A Dual-Phase-Locked-Loop Single-Sideband Low-IF Radar with Asynchronous Bandpass Sampling for Precise Displacement Motion Detection," ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 11, pp. 6263-6274, Nov. 2024, doi: 10.1109/TMTT.2024.3406611.
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE TMTT</span>
+Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Target Detection with Short-Range FMCW Radar based on Time-Frequency Characteristic-Based Leakage Cancellation Technique,” 
+***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 4, pp. 2318-2331, April 2024, doi: 10.1109/TMTT.2024.3360324.
+
 ## Conference Papers:
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">APMC2025</span>
 **Zhiwei Zhang**, Keke Zheng, Jiayu Zhang, Yijing Guo and Changzhan Gu*, “Robust Heart-Rate Monitoring Under Sleep Postural Variability Using a 24-GHz MIMO FMCW Radar,” ***IEEE Asia-Pacific Microwave Conference (APMC)*, 2025.**
