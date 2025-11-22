@@ -23,15 +23,23 @@ I am currently a second-year Ph.D student in the [School of Integrated Circuits 
 My research interest includes full-duplex integrated radar microsystem and antenna design. I have published more than 20 papers.
 
 # 📖 Educations
-- *2024.09 - Present*, PhD in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China \n
+- *2024.09 - Present*, PhD in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China <br>
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
-- *2022.09 - 2024.09*, M.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China \n
+- *2022.09 - 2024.09*, M.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China <br>
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2018.09 - 2022.06*, B.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.11*: &nbsp;🎉🎉  I am greatly honored to won the best paper award in CSRSWTC2025!
+  
+- *2025.09*: &nbsp;🎉🎉  I became a reviewer for [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)！
+
+- *2024.06*: &nbsp;🎉🎉  I am greatly honored to receive an [IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards](https://mtt.org/undergraduate-scholarship-recipients/)!
+
+- *2024.03*: &nbsp;🎉🎉  I am greatly honored to won the MVC Competition third place award in IWS2024!
+- 
+- *2023.06*: &nbsp;🎉🎉  I am greatly honored to receive the Zhengyang Scholarship at Shanghai Jiao Tong University!
 
 # 📝 Publications 
 # Journal Papers:
