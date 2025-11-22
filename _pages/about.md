@@ -37,8 +37,8 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 
 - *2024.06*: &nbsp;🎉🎉  I am greatly honored to receive an [IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards](https://mtt.org/undergraduate-scholarship-recipients/)!
 
-- *2024.03*: &nbsp;🎉🎉  I am greatly honored to won the MVC Competition third place award in IWS2024!
-- 
+- *2024.05*: &nbsp;🎉🎉  I am greatly honored to won the MVC Competition third place award in IWS2024!
+  
 - *2023.06*: &nbsp;🎉🎉  I am greatly honored to receive the Zhengyang Scholarship at Shanghai Jiao Tong University!
 
 # 📝 Publications 
@@ -107,15 +107,17 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao
 
 # 🎖 Honors and Awards
 - *2025.11* CSRSWTC 2025 Best Paper Award
-- *2025.05* NCMMW 2025 Best Student Paper Award, 3rd Prize
-- *2024.08* IEEE ACES-China 2024 Best Student Paper Award, 1st Prize
+- *2024.06* IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards
 - *2024.05* IEEE MTT-S IWS 2024 MVC Competition Third Place Winner
+- *2023.06* Zhengyang Scholarship at Shanghai Jiao Tong University
+- *2021.12* National Encouragement Scholarship (Undergraduate)
+- *2020.12* National Encouragement Scholarship (Undergraduate)
 
-
-
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
