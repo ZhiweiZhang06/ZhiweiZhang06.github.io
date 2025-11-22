@@ -43,7 +43,7 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 
 # 📝 Publications 
 # Journal Papers:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025zzw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar](https://ieeexplore.ieee.org/document/11222828)
@@ -53,7 +53,7 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - This paper presents the first investigation into the influence of NLFM on displacement motion sensing, supported by theoretical derivations, simulation, and experimental validations.
 - Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique](https://ieeexplore.ieee.org/document/11222828)
