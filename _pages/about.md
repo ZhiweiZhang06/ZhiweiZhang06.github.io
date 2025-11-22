@@ -62,9 +62,8 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 ***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
 - This technology can be applied to enhance motion sensing in millimeter-wave radar.
 - Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.
-
-
-
+</div>
+</div>
 
 # Conference Papers:
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">APMC2025</span>
