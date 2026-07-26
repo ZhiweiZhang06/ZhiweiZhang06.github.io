@@ -79,6 +79,9 @@ Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurabl
 </div>
 
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
+Jiayu Zhang, Yuchen Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "A Low-Complexity and Efficient Spatial Resampling Technique for Range–Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2026, doi: 10.1109/TMTT.2026.3676976.
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
 Jiayu Zhang, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2025, doi: 10.1109/TMTT.2025.3615997.
 
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE Sensor J.</span>
