@@ -104,7 +104,7 @@ Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Target
 **Zhiwei Zhang**,  Yuyang Chen, Lu Meng, Yunyi Jiang, Sheng Wang, Chao Yang, Linsheng Wu, Jianjun Zhou, Jing Jin, and Changzhan Gu*, “A 60 GHz Millimeter-Wave Radar System for Human Respiration Sensing Toward Phased-Array Applications,” ** *Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2026*.**
 <span style="color:#b30000;">(Selected for the Best Student Paper Finalist)</span>
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">NCANT2025</span>
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">NCMMW2026</span>
 **张志伟**, 侯耀威 和 顾昌展*, “一种基于 LTCC 工艺的宽带双圆极化 LRA 封装天线,”** *全国微波毫米波会议(NCMMW)*, 2026**.
 <span style="color:#b30000;"></span>
   
