@@ -100,8 +100,8 @@ Fei Tong, **Zhiwei Zhang** and Changzhan Gu*, "A Dual-Phase-Locked-Loop Single-S
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Target Detection with Short-Range FMCW Radar based on Time-Frequency Characteristic-Based Leakage Cancellation Technique,” ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 4, pp. 2318-2331, April 2024, doi: 10.1109/TMTT.2024.3360324.
 
 ## Conference Papers:
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">Aces-China2024</span>
-Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu* and Junfa Mao, “A 60 GHz Millimeter-Wave Radar System for Human Respiration Sensing Toward Phased-Array Applications,” ** *Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025*.**
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CSRSWTC2026</span>
+**Zhiwei Zhang**,  Yuyang Chen, Lu Meng, Yunyi Jiang, Sheng Wang, Chao Yang, Linsheng Wu, Jianjun Zhou, Jing Jin, and Changzhan Gu*, “A 60 GHz Millimeter-Wave Radar System for Human Respiration Sensing Toward Phased-Array Applications,” ** *Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2026*.**
 <span style="color:#b30000;">(Selected for the Best Student Paper Finalist)</span>
 
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">NCANT2025</span>
