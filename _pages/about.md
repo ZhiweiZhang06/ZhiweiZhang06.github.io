@@ -159,6 +159,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao
 
 
 # 🎖 Honors and Awards
+- *2026.8* 2026 IEEE MTT-S Shanghai Postgraduate Paper Competition on Frontiers in Electronics and Information Innovation Best Student Paper Award Second Place Winner
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2024.06* IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards
 - *2024.05* IEEE MTT-S IWS 2024 MVC Competition Third Place Winner
