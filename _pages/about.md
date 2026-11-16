@@ -190,6 +190,13 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 
 <div class="hw-grid">
 <div class="hw-card">
+<picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture>
+<div class="hw-card-body">
+<p class="hw-card-title">120 GHz AIP FMCW Radar (TRX_120_001)</p>
+<p class="hw-card-desc">A 120 GHz FMCW radar module in antenna-in-package (AIP) form, measuring only 2.91 cm by 1.74 cm for compact high-resolution sensing.</p>
+</div>
+</div>
+<div class="hw-card">
 <picture><source srcset="images/HW_DualPLL_5p8GHz.webp" type="image/webp"><img src="images/HW_DualPLL_5p8GHz.jpg" alt="PCB layout of the 5.8 GHz dual-PLL low-IF radar" loading="lazy"></picture>
 <div class="hw-card-body">
 <p class="hw-card-title">5.8 GHz Dual-PLL Low-IF Radar</p>
