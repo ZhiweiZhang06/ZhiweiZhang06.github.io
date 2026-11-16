@@ -129,6 +129,18 @@ h1:before, .anchor:before {
     white-space: nowrap;
 }
 
+/* Compact paper Link ↗ placed beside entries, not on the title */
+.plink {
+    font-size: .78em;
+    font-weight: 600;
+    white-space: nowrap;
+    margin-left: .35em;
+    color: #0052cc;
+    text-decoration: none;
+
+    &:hover { text-decoration: underline; }
+}
+
 /* Publications dropdown in masthead nav */
 .nav-dropdown {
     position: relative;
