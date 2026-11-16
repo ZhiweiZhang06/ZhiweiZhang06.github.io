@@ -182,14 +182,11 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao
 
 # 📝 Patents
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CN Patent</span>
-"宽带自去耦共口径双圆极化全双工天线", Application No. 202611396265.7, filed on 2026-09-09 and accepted by the National Intellectual Property Administration of China.
+- 宽带自去耦共口径双圆极化全双工天线, 国家发明专利, 申请号: CN202611396265.7
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CN Patent</span>
-"用于运动感知的低复杂度开环FMCW雷达装置和方法", CN120630169A, Application No. 202511085597.9, filed on 2025-08-04 and published on 2025-09-12. [Link](https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZQHWWod7-RX252looDR0DHViqAP1n1BuVx9i3UdXx6bgJz8pSXpGIKsgfl3tBIf1EdYE440QsitUIyZ0Yx1oTHrbY0nAqChZ7tiedrUS6c2yU3SkdScW7WjUH-LQPEr3SmP7narF3rTbOIdxJ_Og_xGxw5lv3NbaqMqhdfj0LOLKQ==)
+- [用于运动感知的低复杂度开环FMCW雷达装置和方法](https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZQHWWod7-RX252looDR0DHViqAP1n1BuVx9i3UdXx6bgJz8pSXpGIKsgfl3tBIf1EdYE440QsitUIyZ0Yx1oTHrbY0nAqChZ7tiedrUS6c2yU3SkdScW7WjUH-LQPEr3SmP7narF3rTbOIdxJ_Og_xGxw5lv3NbaqMqhdfj0LOLKQ==), 国家发明专利, 申请号: CN202511085597.9
 
-- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CN Patent</span>
-"一种用于FMCW雷达运动感知增强的频率重构方法", CN118348489A, Application No. 202410454696.9, filed on 2024-04-16 and published on 2024-07-16. [Link](https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZS3AJyz5pAO-7uLJpA9V2ERRxSCvlvAYDRVW-1kqFNJ7EWw1EPuxZC7gxkEddFy6m-p86s_wZ_-xKhtmGVxLVsom-4_tUwJI0kejKF82K8TiyyfhUbZSCM7sDAbSmVrZbACz9PRrOwAGUxA4ipzv1tavdhluOglTxUozcY_eO8a_A==)
+- [一种用于FMCW雷达运动感知增强的频率重构方法](https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZS3AJyz5pAO-7uLJpA9V2ERRxSCvlvAYDRVW-1kqFNJ7EWw1EPuxZC7gxkEddFy6m-p86s_wZ_-xKhtmGVxLVsom-4_tUwJI0kejKF82K8TiyyfhUbZSCM7sDAbSmVrZbACz9PRrOwAGUxA4ipzv1tavdhluOglTxUozcY_eO8a_A==), 国家发明专利, 申请号: CN202410454696.9
 
 
 # 🎖 Honors and Awards
