@@ -24,18 +24,6 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2018.09 - 2022.06*, B.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China. 
 
-# 🔥 News
-
-- *2025.11*: &nbsp;🎉🎉  I am greatly honored to win the Best Paper Award at CSRSWTC 2025!
-  
-- *2025.09*: &nbsp;🎉🎉  I became a reviewer for [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)!
-
-- *2024.06*: &nbsp;🎉🎉  I am greatly honored to receive an [IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards](https://mtt.org/undergraduate-scholarship-recipients/)!
-
-- *2024.05*: &nbsp;🎉🎉  I am greatly honored to win third place in the MVC Competition at IWS 2024!
-  
-- *2023.06*: &nbsp;🎉🎉  I am greatly honored to receive the Zhengyang Scholarship at Shanghai Jiao Tong University!
-
 # 📝 Publications
 ## Featured Papers
 
@@ -197,6 +185,8 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 
 
 # 🎖 Honors and Awards
+- *2026.10* The Doctoral Student Program of the Young S&amp;T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
+- *2026.10* National Scholarship (Graduate)
 - *2026.8* 2026 IEEE MTT-S Shanghai Postgraduate Paper Competition on Frontiers in Electronics and Information Innovation Best Student Paper Award Second Place Winner
 - *2025.11* CSRSWTC 2025 Best Paper Award
 - *2024.06* IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards
@@ -204,6 +194,19 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - *2023.06* Zhengyang Scholarship at Shanghai Jiao Tong University
 - *2021.12* National Encouragement Scholarship (Undergraduate)
 - *2020.12* National Encouragement Scholarship (Undergraduate)
+
+# 🔥 News
+
+- *2025.11*: &nbsp;🎉🎉  I am greatly honored to win the Best Paper Award at CSRSWTC 2025!
+  
+- *2025.09*: &nbsp;🎉🎉  I became a reviewer for [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)!
+
+- *2024.06*: &nbsp;🎉🎉  I am greatly honored to receive an [IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards](https://mtt.org/undergraduate-scholarship-recipients/)!
+
+- *2024.05*: &nbsp;🎉🎉  I am greatly honored to win third place in the MVC Competition at IWS 2024!
+  
+- *2023.06*: &nbsp;🎉🎉  I am greatly honored to receive the Zhengyang Scholarship at Shanghai Jiao Tong University!
+
 
 <!--
 # 💬 Invited Talks
