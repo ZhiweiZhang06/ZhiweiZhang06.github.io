@@ -24,11 +24,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiwei Zhang"
+  name_zh          : "张志伟"
   avatar           : "images/photo.jpg"
   degree           : "Ph.D. Student"
+  degree_zh        : "博士研究生"
   bio              : "State Key Laboratory of Radio Frequency Heterogeneous Integration, Shanghai Jiao Tong University."
+  bio_zh           : "射频异构集成全国重点实验室，上海交通大学。"
   advisor          : "Changzhan Gu"
+  advisor_zh       : "顾昌展"
   location         : "Shanghai, China"
+  location_zh      : "中国上海"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IsQveb8AAAAJ&hl=zh-CN&authuser=1"

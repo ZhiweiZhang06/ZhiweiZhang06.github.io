@@ -129,6 +129,13 @@ h1:before, .anchor:before {
     margin-bottom: .35em;
 }
 
+/* Language switch in the top navigation */
+.lang-item.active a {
+    color: #0b4fa3;
+    font-weight: 700;
+    border-bottom: 2px solid #0b4fa3;
+}
+
 .badge {
     padding-left: .6rem;
     padding-right: .6rem;

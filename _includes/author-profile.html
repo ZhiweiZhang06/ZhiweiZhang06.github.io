@@ -2,27 +2,39 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+{% if page.lang == 'zh' %}
+  {% assign profile_zh = true %}
+{% else %}
+  {% assign profile_zh = false %}
+{% endif %}
+
+{% if profile_zh and author.name_zh %}{% assign display_name = author.name_zh %}{% else %}{% assign display_name = author.name %}{% endif %}
+{% if profile_zh and author.degree_zh %}{% assign display_degree = author.degree_zh %}{% else %}{% assign display_degree = author.degree %}{% endif %}
+{% if profile_zh and author.bio_zh %}{% assign display_bio = author.bio_zh %}{% else %}{% assign display_bio = author.bio %}{% endif %}
+{% if profile_zh and author.advisor_zh %}{% assign display_advisor = author.advisor_zh %}{% else %}{% assign display_advisor = author.advisor %}{% endif %}
+{% if profile_zh and author.location_zh %}{% assign display_location = author.location_zh %}{% else %}{% assign display_location = author.location %}{% endif %}
+
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ display_name }}">
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.degree or author.bio %}
+    <h3 class="author__name">{{ display_name }}</h3>
+    {% if display_degree or display_bio %}
       <p class="author__bio">
-        {% if author.degree %}<span class="author__degree">{{ author.degree }}</span>{% endif %}{% if author.degree and author.bio %}, {% endif %}{{ author.bio }}
+        {% if display_degree %}<span class="author__degree">{{ display_degree }}</span>{% endif %}{% if display_degree and display_bio %}{% if profile_zh %}，{% else %}, {% endif %}{% endif %}{{ display_bio }}
       </p>
     {% endif %}
-    {% if author.advisor %}<p class="author__advisor">Advisor: {{ author.advisor }}</p>{% endif %}
+    {% if display_advisor %}<p class="author__advisor">{% if profile_zh %}导师：{% else %}Advisor: {% endif %}{{ display_advisor }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% if display_location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ display_location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

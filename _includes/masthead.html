@@ -1,24 +1,36 @@
+{% if page.lang == 'zh' %}
+  {% assign is_zh = true %}
+  {% assign lang_prefix = '/zh' %}
+{% else %}
+  {% assign is_zh = false %}
+  {% assign lang_prefix = '' %}
+{% endif %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">{% if is_zh %}主页{% else %}Homepage{% endif %}</a></li>
           {% for link in site.data.navigation.main %}
+            {% if is_zh and link.title_zh %}{% assign link_title = link.title_zh %}{% else %}{% assign link_title = link.title %}{% endif %}
             {% if link.children %}
             <li class="masthead__menu-item nav-dropdown">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }} <span class="nav-caret">▾</span></a>
+              <a href="{{ domain }}{{ lang_prefix }}{{ link.url }}">{{ link_title }} <span class="nav-caret">▾</span></a>
               <ul class="nav-dropdown-menu">
                 {% for child in link.children %}
-                <li><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+                  {% if is_zh and child.title_zh %}{% assign child_title = child.title_zh %}{% else %}{% assign child_title = child.title %}{% endif %}
+                  <li><a href="{{ domain }}{{ lang_prefix }}{{ child.url }}">{{ child_title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ lang_prefix }}{{ link.url }}">{{ link_title }}</a></li>
             {% endif %}
           {% endfor %}
+          <li class="masthead__menu-item lang-item{% if is_zh %} active{% endif %}"><a href="{{ site.url }}/zh/" hreflang="zh-CN">中文</a></li>
+          <li class="masthead__menu-item lang-item{% unless is_zh %} active{% endunless %}"><a href="{{ site.url }}/" hreflang="en">EN</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
