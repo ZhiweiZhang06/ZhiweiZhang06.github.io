@@ -80,7 +80,7 @@ Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming T
 </div>
 
 
-<div class='paper-box paper-box-wide'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Leakage.jpg' alt="Composite figure of the sparse radar prototype, signal processing chain, and human point clouds for frequency-domain leakage and stationary clutter cancellation with a K-band sparse MIMO FMCW radar" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Leakage.jpg' alt="Composite figure of the sparse radar prototype, signal processing chain, and human point clouds for frequency-domain leakage and stationary clutter cancellation with a K-band sparse MIMO FMCW radar" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
