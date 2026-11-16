@@ -21,15 +21,15 @@ I have authored or co-authored more than 20 journal and conference papers, inclu
 
 <span class="bio-interests"><strong>Research interests:</strong> millimeter-wave radar systems &middot; full-duplex antennas &middot; heterogeneous integration and packaging technologies.</span>
 
-# 📖 Education {: #education }
+# 📖 Education {#education}
 - *2024.09 - Present*, Ph.D. in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China <br>
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2022.09 - 2024.09*, M.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China <br>
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2018.09 - 2022.06*, B.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China. 
 
-# 📝 Publications {: #publications }
-## Featured Papers {: #featured-papers }
+# 📝 Publications {#publications}
+## Featured Papers {#featured-papers}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,7 +118,7 @@ Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurabl
 </div>
 
 
-## Journal Papers {: #journal-papers }
+## Journal Papers {#journal-papers}
 - <span class="refnum">[11]</span> <span class="lbl">IEEE TAP</span>
 **Zhiwei Zhang**, Yaowei Hou, Linsheng Wu, Changzhan Gu&#42; and Junfa Mao, "A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resonator Antenna for In-Band Full-Duplex Applications," ***IEEE Transactions on Antennas and Propagation***, 2026, doi: 10.1109/TAP.2026.3737996. <a href="https://doi.org/10.1109/TAP.2026.3737996" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
@@ -153,7 +153,7 @@ Fei Tong, **Zhiwei Zhang** and Changzhan Gu&#42;, "A Dual-Phase-Locked-Loop Sing
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao, "Target Detection With Short-Range FMCW Radar Based on Time-Frequency Characteristic-Based Leakage Cancellation Technique," ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 4, pp. 2318-2331, April 2024, doi: 10.1109/TMTT.2024.3360324. <a href="https://doi.org/10.1109/TMTT.2024.3360324" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
 
-## Conference Papers {: #conference-papers }
+## Conference Papers {#conference-papers}
 - <span class="refnum">[16]</span> <span class="lbl">NCMMW2026</span>
 **张志伟**, 侯耀威 和 顾昌展&#42;, "一种基于LTCC工艺的宽带双圆极化LRA封装天线," ***全国微波毫米波会议 (NCMMW), 2026.*** <a href="https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZT5QIi-co9oDzZqBaHThy49v_v6oY7zUsI_t4ANW61hrh0usXt1g7eP-9cV9zqQRmwnmw_Q34ix3DxUG4cUZz1XybjyAxKpkRAIcrXgq8gs8y4XRZp0jTAsIk7NL6eIYO4vQIL9NzWC0eVib11vkmYp7SREi1TOAm46dAL7K9xn0jcZKcQabPbd" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
@@ -210,7 +210,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 <span style="color:#b30000;">(Selected for the Flash Competition Finalist)</span>
 
 
-# 📝 Patents {: #patents }
+# 📝 Patents {#patents}
 
 - <span class="refnum">[3]</span> 宽带自去耦共口径双圆极化全双工天线, 国家发明专利, 申请号: CN202611396265.7
 
@@ -219,12 +219,11 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - <span class="refnum">[1]</span> 一种用于FMCW雷达运动感知增强的频率重构方法, 国家发明专利, 申请号: CN202410454696.9
 
 
-<span class='anchor' id='research-prototypes'></span>
-# ⚙️ Research Prototypes {: #research-prototypes }
+# ⚙️ Research Prototypes {#research-prototypes}
 
 Here are some of the hardware systems and prototypes I have designed, spanning radar systems, full-duplex antennas, and packaged microsystems.
 
-## Radar Systems {: #radar-systems }
+## Radar Systems {#radar-systems}
 
 <div class="hw-grid">
 <div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
@@ -233,18 +232,18 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 <div class="hw-card" data-title="24 GHz FMCW Radar (RC2412FR 1T2R)"><picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture></div>
 </div>
 
-## Full-Duplex Antennas {: #full-duplex-antennas }
+## Full-Duplex Antennas {#full-duplex-antennas}
 
 <div class="hw-grid ant-grid">
 <div class="hw-card" data-title="Co-Aperture Dual-Circularly Polarized LRA Package Antenna"><picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype beside a coin for scale" loading="lazy"></picture></div>
 <div class="hw-card" data-title="Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna"><picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture></div>
 </div>
 
-## Packaged Microsystems {: #packaged-microsystems }
+## Packaged Microsystems {#packaged-microsystems}
 
 *More prototypes coming soon.*
 
-# 🎖 Honors and Awards {: #honors-and-awards }
+# 🎖 Honors and Awards {#honors-and-awards}
 - *2026.10* The Doctoral Student Program of the Young S&amp;T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
 - *2026.10* National Scholarship (Graduate)
 - *2026.8* 2026 IEEE MTT-S Shanghai Postgraduate Paper Competition on Frontiers in Electronics and Information Innovation Best Student Paper Award Second Place Winner
@@ -255,7 +254,7 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 - *2021.12* National Encouragement Scholarship (Undergraduate)
 - *2020.12* National Encouragement Scholarship (Undergraduate)
 
-# 🔥 News {: #news }
+# 🔥 News {#news}
 
 - *2025.11*: &nbsp;🎉🎉  I am greatly honored to win the Best Paper Award at CSRSWTC 2025!
   

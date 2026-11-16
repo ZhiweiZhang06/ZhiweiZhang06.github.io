@@ -18,15 +18,15 @@ author_profile: true
 
 <span class="bio-interests"><strong>研究兴趣：</strong>毫米波雷达系统 &middot; 全双工天线 &middot; 异构集成与封装技术。</span>
 
-# 🎓 教育经历 {: #education }
+# 🎓 教育经历 {#education}
 - *2024.09 - 至今*，上海交通大学，信息与通信工程专业，博士研究生 <br>
 射频异构集成全国重点实验室。
 - *2022.09 - 2024.09*，上海交通大学，电子科学与技术专业，硕士研究生 <br>
 射频异构集成全国重点实验室。
 - *2018.09 - 2022.06*，上海交通大学，电子科学与技术专业，学士。
 
-# 📝 论文成果 {: #publications }
-## 代表性论文 {: #featured-papers }
+# 📝 论文成果 {#publications}
+## 代表性论文 {#featured-papers}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="所提出的双圆极化层叠谐振器天线的结构、加工原型、测试场景以及仿真与实测 S 参数" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,7 +115,7 @@ Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurabl
 </div>
 
 
-## 期刊论文 {: #journal-papers }
+## 期刊论文 {#journal-papers}
 - <span class="refnum">[11]</span> <span class="lbl">IEEE TAP</span>
 **Zhiwei Zhang**, Yaowei Hou, Linsheng Wu, Changzhan Gu&#42; and Junfa Mao, "A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resonator Antenna for In-Band Full-Duplex Applications," ***IEEE Transactions on Antennas and Propagation***, 2026, doi: 10.1109/TAP.2026.3737996. <a href="https://doi.org/10.1109/TAP.2026.3737996" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
@@ -150,7 +150,7 @@ Fei Tong, **Zhiwei Zhang** and Changzhan Gu&#42;, "A Dual-Phase-Locked-Loop Sing
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao, "Target Detection With Short-Range FMCW Radar Based on Time-Frequency Characteristic-Based Leakage Cancellation Technique," ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 4, pp. 2318-2331, April 2024, doi: 10.1109/TMTT.2024.3360324. <a href="https://doi.org/10.1109/TMTT.2024.3360324" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
 
-## 会议论文 {: #conference-papers }
+## 会议论文 {#conference-papers}
 - <span class="refnum">[16]</span> <span class="lbl">NCMMW2026</span>
 **张志伟**, 侯耀威 和 顾昌展&#42;, "一种基于LTCC工艺的宽带双圆极化LRA封装天线," ***全国微波毫米波会议 (NCMMW), 2026.*** <a href="https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZT5QIi-co9oDzZqBaHThy49v_v6oY7zUsI_t4ANW61hrh0usXt1g7eP-9cV9zqQRmwnmw_Q34ix3DxUG4cUZz1XybjyAxKpkRAIcrXgq8gs8y4XRZp0jTAsIk7NL6eIYO4vQIL9NzWC0eVib11vkmYp7SREi1TOAm46dAL7K9xn0jcZKcQabPbd" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
@@ -207,7 +207,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 <span style="color:#b30000;">（入选 Flash 竞赛决赛）</span>
 
 
-# 📝 专利 {: #patents }
+# 📝 专利 {#patents}
 
 - <span class="refnum">[3]</span> 宽带自去耦共口径双圆极化全双工天线, 国家发明专利, 申请号: CN202611396265.7
 
@@ -216,12 +216,11 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - <span class="refnum">[1]</span> 一种用于FMCW雷达运动感知增强的频率重构方法, 国家发明专利, 申请号: CN202410454696.9
 
 
-<span class='anchor' id='research-prototypes'></span>
-# ⚙️ 研究原型 {: #research-prototypes }
+# ⚙️ 研究原型 {#research-prototypes}
 
 以下是我设计的一些硬件系统与原型，涵盖雷达系统、全双工天线和封装微系统。
 
-## 雷达系统 {: #radar-systems }
+## 雷达系统 {#radar-systems}
 
 <div class="hw-grid">
 <div class="hw-card" data-title="120 GHz 天线封装（AiP）FMCW 雷达（TRX_120_001）"><picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz 天线封装 FMCW 雷达模块（TRX_120_001），尺寸 2.91 cm × 1.74 cm，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
@@ -230,18 +229,18 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 <div class="hw-card" data-title="24 GHz FMCW 雷达（RC2412FR 1T2R）"><picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="基于 RC2412FR 1T2R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
 </div>
 
-## 全双工天线 {: #full-duplex-antennas }
+## 全双工天线 {#full-duplex-antennas}
 
 <div class="hw-grid ant-grid">
 <div class="hw-card" data-title="共口径双圆极化 LRA 封装天线"><picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="共口径双圆极化 LRA 封装天线原型，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
 <div class="hw-card" data-title="共辐射同极化椭圆 LRA 封装天线"><picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="共辐射同极化椭圆 LRA 封装天线原型" loading="lazy"></picture></div>
 </div>
 
-## 封装微系统 {: #packaged-microsystems }
+## 封装微系统 {#packaged-microsystems}
 
 *更多原型即将推出。*
 
-# 🎖 荣誉与奖项 {: #honors-and-awards }
+# 🎖 荣誉与奖项 {#honors-and-awards}
 - *2026.10* 中国科协青年人才托举工程博士生专项计划（中国电子学会培育）
 - *2026.10* 国家奖学金（研究生）
 - *2026.8* 2026 IEEE MTT-S 上海研究生论文竞赛“电子信息创新前沿” Best Student Paper 二等奖
@@ -252,7 +251,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - *2021.12* 国家励志奖学金（本科生）
 - *2020.12* 国家励志奖学金（本科生）
 
-# 🔥 动态 {: #news }
+# 🔥 动态 {#news}
 
 - *2025.11*：&nbsp;🎉🎉 很荣幸获得 CSRSWTC 2025 最佳论文奖！
   
