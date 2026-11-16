@@ -205,10 +205,11 @@ h1:before, .anchor:before {
 }
 /* Research Prototypes gallery */
 .hw-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    flex-wrap: wrap;
     gap: 1.25rem;
     margin: 1rem 0 1.5rem;
+    align-items: flex-start;
 }
 
 .hw-card {
@@ -220,8 +221,8 @@ h1:before, .anchor:before {
 
     img {
         display: block;
-        width: 100%;
-        height: auto;
+        height: 280px;
+        width: auto;
     }
 
     &[data-title]::before {
@@ -244,9 +245,9 @@ h1:before, .anchor:before {
 }
 
 @media (max-width: 900px) {
-    .hw-grid { grid-template-columns: repeat(2, 1fr); }
+    .hw-card img { height: 240px; }
 }
 
 @media (max-width: 600px) {
-    .hw-grid { grid-template-columns: 1fr; }
+    .hw-card img { height: 220px; }
 }
