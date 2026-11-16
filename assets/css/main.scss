@@ -319,16 +319,32 @@ html[lang="zh"] {
   }
 
   .page__content {
-    line-height: 1.75;
+    font-size: 16px;                 /* 15px -> 16px: CJK needs a larger glyph size */
+    line-height: 1.8;
+    text-autospace: normal;          /* auto spacing between CJK and Latin/digits */
 
-    p { margin-bottom: .9em; }
+    p { margin-bottom: 1em; }
 
     li {
-      line-height: 1.7;
-      margin-bottom: .3em;
+      line-height: 1.75;
+      margin-bottom: .4em;
     }
 
     h1, h2 { letter-spacing: .02em; }
+
+    /* Chinese has no true italic glyphs: fake italic looks sloppy.
+       Default all <em> to upright, but keep journal/conference names
+       (rendered as <strong><em>) in the conventional bold-italic. */
+    em { font-style: normal; }
+    strong em,
+    em strong { font-style: italic; }
+
+    /* Dates (e.g. 2026.10) become a clean blue label instead of italics. */
+    li > em {
+      font-style: normal;
+      font-weight: 700;
+      color: #0b4fa3;
+    }
   }
 
   .bio-tagline { letter-spacing: .02em; }
