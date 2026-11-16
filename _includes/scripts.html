@@ -1,3 +1,103 @@
 <script src="/assets/js/main.min.js"></script>
 
+<script>
+/* In-place bilingual switch: swap page content/sidebar/nav without navigation,
+   so switching language never opens a new tab or jumps to a new page. */
+(function () {
+  'use strict';
+  var busy = false;
+
+  function currentLang() {
+    return document.documentElement.lang.indexOf('zh') === 0 ? 'zh' : 'en';
+  }
+
+  function copyMeta(doc) {
+    var pairs = [
+      ['meta[name="description"]', 'content'],
+      ['meta[property="og:description"]', 'content'],
+      ['meta[property="og:title"]', 'content'],
+      ['meta[property="og:locale"]', 'content']
+    ];
+    pairs.forEach(function (p) {
+      var src = doc.head.querySelector(p[0]);
+      var dst = document.head.querySelector(p[0]);
+      if (src && dst) dst.setAttribute(p[1], src.getAttribute(p[1]));
+    });
+  }
+
+  function swapNav(doc) {
+    // Keep existing <li> nodes (greedy-nav holds references to them), only
+    // replace their inner HTML so menu labels follow the target language.
+    ['ul.visible-links', 'ul.hidden-links'].forEach(function (sel) {
+      var cur = document.querySelectorAll(sel + ' > li');
+      var neu = doc.querySelectorAll(sel + ' > li');
+      for (var i = 0; i < cur.length && i < neu.length; i++) {
+        cur[i].innerHTML = neu[i].innerHTML;
+      }
+    });
+  }
+
+  function apply(doc, lang, push) {
+    var scrollY = window.scrollY;
+
+    var curContent = document.querySelector('.page__content');
+    var newContent = doc.querySelector('.page__content');
+    if (curContent && newContent) curContent.innerHTML = newContent.innerHTML;
+
+    var curProfile = document.querySelector('.profile_box');
+    var newProfile = doc.querySelector('.profile_box');
+    if (curProfile && newProfile) curProfile.innerHTML = newProfile.innerHTML;
+
+    swapNav(doc);
+
+    document.title = doc.title;
+    document.documentElement.lang = doc.documentElement.lang || (lang === 'zh' ? 'zh' : 'en');
+    copyMeta(doc);
+
+    if (push) {
+      history.pushState({ lang: lang }, '', lang === 'zh' ? '/zh/' : '/');
+    }
+    window.scrollTo(0, scrollY);
+  }
+
+  function load(lang, push) {
+    if (busy || lang === currentLang()) return;
+    busy = true;
+    var url = lang === 'zh' ? '/zh/' : '/';
+    fetch(url, { headers: { 'X-Requested-With': 'XMLHttpRequest' } })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.text();
+      })
+      .then(function (html) {
+        var doc = new DOMParser().parseFromString(html, 'text/html');
+        if (!doc.querySelector('.page__content')) throw new Error('bad page');
+        apply(doc, lang, push);
+      })
+      .catch(function () {
+        // Fallback: normal (same-tab) navigation if fetch is unavailable.
+        window.location.href = url;
+      })
+      .finally(function () { busy = false; });
+  }
+
+  document.addEventListener('click', function (e) {
+    var link = e.target.closest('[data-lang-link]');
+    if (!link) return;
+    e.preventDefault();
+    load(link.getAttribute('data-lang'), true);
+  });
+
+  window.addEventListener('popstate', function (e) {
+    var lang = location.pathname.replace(/^\//, '').startsWith('zh') ? 'zh' : 'en';
+    if (lang !== currentLang()) {
+      var url = lang === 'zh' ? '/zh/' : '/';
+      fetch(url).then(function (r) { return r.text(); }).then(function (html) {
+        apply(new DOMParser().parseFromString(html, 'text/html'), lang, false);
+      }).catch(function () { window.location.reload(); });
+    }
+  });
+})();
+</script>
+
 {% include analytics.html %}

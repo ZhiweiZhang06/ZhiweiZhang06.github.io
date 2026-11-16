@@ -29,8 +29,8 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ lang_prefix }}{{ link.url }}">{{ link_title }}</a></li>
             {% endif %}
           {% endfor %}
-          <li class="masthead__menu-item lang-item{% if is_zh %} active{% endif %}"><a href="{{ site.url }}/zh/" hreflang="zh-CN">中文</a></li>
-          <li class="masthead__menu-item lang-item{% unless is_zh %} active{% endunless %}"><a href="{{ site.url }}/" hreflang="en">EN</a></li>
+          <li class="masthead__menu-item lang-item{% if is_zh %} active{% endif %}"><a href="/zh/" hreflang="zh-CN" data-lang-link data-lang="zh">中文</a></li>
+          <li class="masthead__menu-item lang-item{% unless is_zh %} active{% endunless %}"><a href="/" hreflang="en" data-lang-link data-lang="en">EN</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
