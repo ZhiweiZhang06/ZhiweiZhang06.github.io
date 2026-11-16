@@ -98,6 +98,21 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+/* Homepage bio */
+.bio-tagline {
+    display: block;
+    font-size: 1.15em;
+    font-weight: 700;
+    color: #0b4fa3;
+    margin: 0 0 .7em;
+    line-height: 1.4;
+}
+
+.bio-interests {
+    display: block;
+    margin-top: .8em;
+}
+
 .badge {
     padding-left: .6rem;
     padding-right: .6rem;

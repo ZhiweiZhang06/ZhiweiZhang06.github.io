@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Zhang"
-description              : "Ph.D. student at Shanghai Jiao Tong University"
+description              : "Zhiwei Zhang is a Ph.D. student at Shanghai Jiao Tong University researching millimeter-wave radar systems, full-duplex antennas, and heterogeneous integration and packaging."
 url                      : "https://zhiweizhang06.github.io"
 baseurl                  : ""
 repository               : "ZhiweiZhang06/ZhiweiZhang06.github.io"
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ZhiweiZhang06"
   google_plus      :
   keybase          :
   instagram        :
