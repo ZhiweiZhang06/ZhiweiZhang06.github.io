@@ -38,6 +38,26 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 
 # 📝 Publications 
 ## Journal Papers:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p>
+<a href="https://ieeexplore.ieee.org/document/11719485"
+   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
+A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resonator Antenna for In-Band Full-Duplex Applications
+</a>
+</p>
+
+**Zhiwei Zhang**, Yaowei Hou, Linsheng Wu, Changzhan Gu* and Junfa Mao <br>
+***IEEE Transactions on Antennas and Propagation, 2026*** <br>
+- This paper presents the first wideband self-decoupled co-aperture dual-circularly polarized laminated resonator antenna for in-band full-duplex applications.
+- An S-parameter-based port-coupling synthesis theory is proposed for the self-decoupling design of multi-fed dual-CP antennas, enabling the multi-fed coupling problem to be reduced to an equivalent two-fed formulation.
+- The proposed antenna simultaneously achieves wide bandwidth, high isolation, excellent circular polarization, stable broadside radiation, compact integration, and low design complexity.
+- System-level IBFD radar experiment confirms the practical advantage of the proposed antenna in improving sensing accuracy.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025zzw.png' alt="First page of the paper: Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,22 +94,7 @@ Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurabl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<p>
-<a href="https://ieeexplore.ieee.org/document/11719485"
-   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
-A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resonator Antenna for In-Band Full-Duplex Applications
-</a>
-</p>
-
-**Zhiwei Zhang**, Yaowei Hou, Linsheng Wu, Changzhan Gu* and Junfa Mao <br>
-***IEEE Transactions on Antennas and Propagation, 2026*** <br>
-- This paper presents a wideband self-decoupled co-aperture dual-circularly polarized laminated resonator antenna for in-band full-duplex applications.
-- A multilayer configuration with an integrated feeding network is designed to achieve dual-circular polarization with high port isolation.
-</div>
-</div>
 
 
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
