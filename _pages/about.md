@@ -58,7 +58,7 @@ A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resona
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025zzw.png' alt="First page of the paper: Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Nonlinear.jpg' alt="Simulation and experimental results on the impact of frequency nonlinearity on displacement motion sensing, with the fabricated VCO-based open-loop FMCW radar prototype" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -69,7 +69,7 @@ Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement
 </p>
 
 **Zhiwei Zhang**, Jingtao Liu, Jiayu Zhang, Yijing Guo and Changzhan Gu* <br>
-***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
+***IEEE Transactions on Microwave Theory and Techniques, 2026*** <br>
 - This paper presents the first investigation into the influence of NLFM on displacement motion sensing, supported by theoretical derivations, simulation, and experimental validations.
 - Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.
 </div>
