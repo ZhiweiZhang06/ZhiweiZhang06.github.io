@@ -25,7 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiwei Zhang"
   avatar           : "images/photo.jpg"
-  bio              : "Shanghai Jiao Tong University"
+  degree           : "Ph.D. Student"
+  bio              : "State Key Laboratory of Radio Frequency Heterogeneous Integration."
+  advisor          : "Changzhan Gu"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

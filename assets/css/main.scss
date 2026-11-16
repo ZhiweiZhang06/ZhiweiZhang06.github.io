@@ -113,6 +113,22 @@ h1:before, .anchor:before {
     margin-top: .8em;
 }
 
+/* Sidebar identity: keep Ph.D. status prominent and avoid duplicate affiliation */
+.author__degree {
+    color: #0b4fa3;
+    font-weight: 700;
+}
+
+.author__advisor {
+    margin: .2em 0 20px;
+    font-size: .92em;
+    color: #555;
+}
+
+.sidebar .author__bio {
+    margin-bottom: .35em;
+}
+
 .badge {
     padding-left: .6rem;
     padding-right: .6rem;
