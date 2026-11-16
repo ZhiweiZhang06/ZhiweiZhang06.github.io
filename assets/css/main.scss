@@ -244,10 +244,21 @@ h1:before, .anchor:before {
     }
 }
 
+.ant-grid {
+    gap: 3rem;
+    justify-content: center;
+
+    .hw-card img { height: 200px; }
+}
+
 @media (max-width: 900px) {
     .hw-card img { height: 240px; }
+    .ant-grid { gap: 2.25rem; }
+    .ant-grid .hw-card img { height: 190px; }
 }
 
 @media (max-width: 600px) {
     .hw-card img { height: 220px; }
+    .ant-grid { gap: 1.5rem; }
+    .ant-grid .hw-card img { height: 175px; }
 }

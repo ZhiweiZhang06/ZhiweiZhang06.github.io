@@ -197,7 +197,7 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 
 ## Full-Duplex Antennas
 
-<div class="hw-grid">
+<div class="hw-grid ant-grid">
 <div class="hw-card" data-title="Co-Aperture Dual-Circularly Polarized LRA Package Antenna"><picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype beside a coin for scale" loading="lazy"></picture></div>
 <div class="hw-card" data-title="Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna"><picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture></div>
 </div>
