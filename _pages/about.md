@@ -37,7 +37,8 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2023.06*: &nbsp;🎉🎉  I am greatly honored to receive the Zhengyang Scholarship at Shanghai Jiao Tong University!
 
 # 📝 Publications
-## Journal Papers:
+## Featured Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,8 +58,6 @@ A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resona
 </div>
 </div>
 
-- <span class="refnum">[10]</span> <span class="lbl">IEEE T-MTT</span>
-Jiayu Zhang, Yuchen Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "A Low-Complexity and Efficient Spatial Resampling Technique for Range-Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2026, doi: 10.1109/TMTT.2026.3676976.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Nonlinear.jpg' alt="Simulation and experimental results on the impact of frequency nonlinearity on displacement motion sensing, with the fabricated VCO-based open-loop FMCW radar prototype" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +75,35 @@ Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement
 - Building on demonstrating motion‐sensing robustness against NLFM, a VCO in open-loop FMCW radar architecture is validated for displacement motion sensing. Comparative experiments show that, despite reduced hardware complexity, this architecture achieves performance on par with VCO in closed‐loop FMCW radar, with normalized root mean square error (NRMSE) difference below 1.6%.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="First page of the paper: Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p>
+<a href="https://ieeexplore.ieee.org/document/10494589"
+   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
+Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique
+</a>
+</p>
+
+<span class="refnum">[2]</span> **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao <br>
+***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
+- This technology can be applied to enhance motion sensing in millimeter-wave radar.
+- Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.
+</div>
+</div>
+
+
+## Journal Papers:
+- <span class="refnum">[11]</span> <span class="lbl">IEEE TAP</span>
+**Zhiwei Zhang**, Yaowei Hou, Linsheng Wu, Changzhan Gu* and Junfa Mao, "A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resonator Antenna for In-Band Full-Duplex Applications," ***IEEE Transactions on Antennas and Propagation***, 2026, doi: 10.1109/TAP.2026.3737996.
+
+- <span class="refnum">[10]</span> <span class="lbl">IEEE T-MTT</span>
+Jiayu Zhang, Yuchen Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "A Low-Complexity and Efficient Spatial Resampling Technique for Range-Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2026, doi: 10.1109/TMTT.2026.3676976.
+
+- <span class="refnum">[9]</span> <span class="lbl">IEEE T-MTT</span>
+**Zhiwei Zhang**, Jingtao Liu, Jiayu Zhang, Yijing Guo and Changzhan Gu*, "Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement Motion Sensing With FMCW Radar," ***IEEE Transactions on Microwave Theory and Techniques***, 2026, doi: 10.1109/TMTT.2025.3622958.
 
 - <span class="refnum">[8]</span> <span class="lbl">IEEE T-MTT</span>
 Jiayu Zhang, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2026, doi: 10.1109/TMTT.2025.3615997.
@@ -95,22 +123,8 @@ Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Mao, "Reconfi
 - <span class="refnum">[3]</span> <span class="lbl">IEEE T-MTT</span>
 Fei Tong, **Zhiwei Zhang** and Changzhan Gu*, "A Dual-Phase-Locked-Loop Single-Sideband Low-IF Radar With Asynchronous Bandpass Sampling for Precise Displacement Motion Detection," ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 11, pp. 6263-6274, Nov. 2024, doi: 10.1109/TMTT.2024.3406611.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="First page of the paper: Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p>
-<a href="https://ieeexplore.ieee.org/document/10494589"
-   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
-Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique
-</a>
-</p>
-
-<span class="refnum">[2]</span> **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao <br>
-***IEEE Transactions on Microwave Theory and Techniques, 2024*** <br>
-- This technology can be applied to enhance motion sensing in millimeter-wave radar.
-- Using equivalent FMCW radar technology, the equivalent signal wavelength can be arbitrarily increased or decreased to achieve precise demodulation of large or small displacements. This improves the accuracy of small displacement detection by three times and the accuracy of large displacement detection by ten times.
-</div>
-</div>
+- <span class="refnum">[2]</span> <span class="lbl">IEEE T-MTT</span>
+**Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu* and Junfa Mao, "Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique," ***IEEE Transactions on Microwave Theory and Techniques***, 2024, doi: 10.1109/TMTT.2024.3383667.
 
 - <span class="refnum">[1]</span> <span class="lbl">IEEE T-MTT</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu* and Junfa Mao, "Target Detection With Short-Range FMCW Radar Based on Time-Frequency Characteristic-Based Leakage Cancellation Technique," ***IEEE Transactions on Microwave Theory and Techniques***, vol. 72, no. 4, pp. 2318-2331, April 2024, doi: 10.1109/TMTT.2024.3360324.
