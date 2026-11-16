@@ -179,7 +179,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 
 - <span class="refnum">[3]</span> 宽带自去耦共口径双圆极化全双工天线, 国家发明专利, 申请号: CN202611396265.7
 
-- <span class="refnum">[2]</span> [用于运动感知的低复杂度开环FMCW雷达装置和方法](https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZQHWWod7-RX252looDR0DHViqAP1n1BuVx9i3UdXx6bgJz8pSXpGIKsgfl3tBIf1EdYE440QsitUIyZ0Yx1oTHrbY0nAqChZ7tiedrUS6c2yU3SkdScW7WjUH-LQPEr3SmP7narF3rTbOIdxJ_Og_xGxw5lv3NbaqMqhdfj0LOLKQ==), 国家发明专利, 申请号: CN202511085597.9
+- <span class="refnum">[2]</span> 用于运动感知的低复杂度开环FMCW雷达装置和方法, 国家发明专利, 申请号: CN202511085597.9
 
 - <span class="refnum">[1]</span> 一种用于FMCW雷达运动感知增强的频率重构方法, 国家发明专利, 申请号: CN202410454696.9
 
