@@ -301,3 +301,37 @@ h1:before, .anchor:before {
     .ant-grid { gap: 1.5rem; }
     .ant-grid .hw-card img { height: 175px; }
 }
+
+/* ------------------------------------------------------------------
+ * Chinese typography refinements — scoped to the Chinese page only.
+ * Latin text (journal/conference names) stays on the theme font;
+ * Chinese glyphs use a clean CJK fallback stack with roomier spacing.
+ * ------------------------------------------------------------------ */
+html[lang="zh"] {
+  body,
+  .page__content,
+  .sidebar,
+  .author__bio,
+  .masthead,
+  .greedy-nav,
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Trebuchet MS", -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", sans-serif;
+  }
+
+  .page__content {
+    line-height: 1.75;
+
+    p { margin-bottom: .9em; }
+
+    li {
+      line-height: 1.7;
+      margin-bottom: .3em;
+    }
+
+    h1, h2 { letter-spacing: .02em; }
+  }
+
+  .bio-tagline { letter-spacing: .02em; }
+
+  .sidebar .author__bio { line-height: 1.6; }
+}
