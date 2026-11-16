@@ -28,7 +28,7 @@ author_profile: true
 # 📝 论文成果 {#publications}
 ## 代表性论文 {#featured-papers}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="所提出的双圆极化层叠谐振器天线的结构、加工原型、测试场景以及仿真与实测 S 参数" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='/images/TAP2026DualCP.jpg' alt="所提出的双圆极化层叠谐振器天线的结构、加工原型、测试场景以及仿真与实测 S 参数" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -47,7 +47,7 @@ A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resona
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Nonlinear.jpg' alt="频率非线性对位移运动感知影响的仿真与实验结果，以及基于 VCO 的开环 FMCW 雷达原型" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2025Nonlinear.jpg' alt="频率非线性对位移运动感知影响的仿真与实验结果，以及基于 VCO 的开环 FMCW 雷达原型" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -64,7 +64,7 @@ Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2026Cardiogram.jpg' alt="4T8R 稀疏 MIMO FMCW 雷达系统原型、四维数字波束形成、一维运动-频率波束形成以及用于多目标微波心图感知的三维波束形成合成图" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2026Cardiogram.jpg' alt="4T8R 稀疏 MIMO FMCW 雷达系统原型、四维数字波束形成、一维运动-频率波束形成以及用于多目标微波心图感知的三维波束形成合成图" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -81,7 +81,7 @@ Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming T
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Leakage.jpg' alt="稀疏雷达原型、信号处理链路以及人体点云的合成图，用于 K 波段稀疏 MIMO FMCW 雷达的频域泄漏与静态杂波抑制" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2025Leakage.jpg' alt="稀疏雷达原型、信号处理链路以及人体点云的合成图，用于 K 波段稀疏 MIMO FMCW 雷达的频域泄漏与静态杂波抑制" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -98,7 +98,7 @@ Frequency-Domain Leakage and Stationary Clutter Cancellation Technique With a K-
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="论文首页：Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2024zzw1.png' alt="论文首页：Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -223,17 +223,17 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 ## 雷达系统 {#radar-systems}
 
 <div class="hw-grid">
-<div class="hw-card" data-title="120 GHz 天线封装（AiP）FMCW 雷达（TRX_120_001）"><picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz 天线封装 FMCW 雷达模块（TRX_120_001），尺寸 2.91 cm × 1.74 cm，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
-<div class="hw-card" data-title="2.4 GHz 雷达系统"><picture><source srcset="images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="images/HW_Radar_2p4GHz.jpg" alt="2.4 GHz 雷达系统的 PCB 版图" loading="lazy"></picture></div>
-<div class="hw-card" data-title="24 GHz FMCW 雷达（SRK1101A 1T1R）"><picture><source srcset="images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_SRK1101A.jpg" alt="基于 SRK1101A 1T1R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
-<div class="hw-card" data-title="24 GHz FMCW 雷达（RC2412FR 1T2R）"><picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="基于 RC2412FR 1T2R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
+<div class="hw-card" data-title="120 GHz 天线封装（AiP）FMCW 雷达（TRX_120_001）"><picture><source srcset="/images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="/images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz 天线封装 FMCW 雷达模块（TRX_120_001），尺寸 2.91 cm × 1.74 cm，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
+<div class="hw-card" data-title="2.4 GHz 雷达系统"><picture><source srcset="/images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="/images/HW_Radar_2p4GHz.jpg" alt="2.4 GHz 雷达系统的 PCB 版图" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW 雷达（SRK1101A 1T1R）"><picture><source srcset="/images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK1101A.jpg" alt="基于 SRK1101A 1T1R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW 雷达（RC2412FR 1T2R）"><picture><source srcset="/images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_RC2412FR.jpg" alt="基于 RC2412FR 1T2R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
 </div>
 
 ## 全双工天线 {#full-duplex-antennas}
 
 <div class="hw-grid ant-grid">
-<div class="hw-card" data-title="共口径双圆极化 LRA 封装天线"><picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="共口径双圆极化 LRA 封装天线原型，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
-<div class="hw-card" data-title="共辐射同极化椭圆 LRA 封装天线"><picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="共辐射同极化椭圆 LRA 封装天线原型" loading="lazy"></picture></div>
+<div class="hw-card" data-title="共口径双圆极化 LRA 封装天线"><picture><source srcset="/images/HW_LRA_DualCP.webp" type="image/webp"><img src="/images/HW_LRA_DualCP.jpg" alt="共口径双圆极化 LRA 封装天线原型，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
+<div class="hw-card" data-title="共辐射同极化椭圆 LRA 封装天线"><picture><source srcset="/images/HW_LRA_CoLinear.webp" type="image/webp"><img src="/images/HW_LRA_CoLinear.jpg" alt="共辐射同极化椭圆 LRA 封装天线原型" loading="lazy"></picture></div>
 </div>
 
 ## 封装微系统 {#packaged-microsystems}

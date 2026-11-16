@@ -31,7 +31,7 @@ State Key Laboratory of Radio Frequency Heterogeneous Integration.
 # 📝 Publications {#publications}
 ## Featured Papers {#featured-papers}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='/images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -50,7 +50,7 @@ A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resona
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Nonlinear.jpg' alt="Simulation and experimental results on the impact of frequency nonlinearity on displacement motion sensing, with the fabricated VCO-based open-loop FMCW radar prototype" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2025Nonlinear.jpg' alt="Simulation and experimental results on the impact of frequency nonlinearity on displacement motion sensing, with the fabricated VCO-based open-loop FMCW radar prototype" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -67,7 +67,7 @@ Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2026Cardiogram.jpg' alt="Composite figure of the 4T8R sparse MIMO FMCW radar system prototype, 4-D digital beamforming, 1-D motion-frequency beamforming, and 3-D beamforming for multi-target microwave cardiogram sensing" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2026Cardiogram.jpg' alt="Composite figure of the 4T8R sparse MIMO FMCW radar system prototype, 4-D digital beamforming, 1-D motion-frequency beamforming, and 3-D beamforming for multi-target microwave cardiogram sensing" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -84,7 +84,7 @@ Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming T
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Leakage.jpg' alt="Composite figure of the sparse radar prototype, signal processing chain, and human point clouds for frequency-domain leakage and stationary clutter cancellation with a K-band sparse MIMO FMCW radar" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2025Leakage.jpg' alt="Composite figure of the sparse radar prototype, signal processing chain, and human point clouds for frequency-domain leakage and stationary clutter cancellation with a K-band sparse MIMO FMCW radar" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -101,7 +101,7 @@ Frequency-Domain Leakage and Stationary Clutter Cancellation Technique With a K-
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="First page of the paper: Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='/images/TMTT2024zzw1.png' alt="First page of the paper: Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p>
@@ -226,17 +226,17 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 ## Radar Systems {#radar-systems}
 
 <div class="hw-grid">
-<div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
-<div class="hw-card" data-title="2.4 GHz Radar System"><picture><source srcset="images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="images/HW_Radar_2p4GHz.jpg" alt="PCB layout of the 2.4 GHz radar system" loading="lazy"></picture></div>
-<div class="hw-card" data-title="24 GHz FMCW Radar (SRK1101A 1T1R)"><picture><source srcset="images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture></div>
-<div class="hw-card" data-title="24 GHz FMCW Radar (RC2412FR 1T2R)"><picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture></div>
+<div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="/images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="/images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
+<div class="hw-card" data-title="2.4 GHz Radar System"><picture><source srcset="/images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="/images/HW_Radar_2p4GHz.jpg" alt="PCB layout of the 2.4 GHz radar system" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (SRK1101A 1T1R)"><picture><source srcset="/images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (RC2412FR 1T2R)"><picture><source srcset="/images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture></div>
 </div>
 
 ## Full-Duplex Antennas {#full-duplex-antennas}
 
 <div class="hw-grid ant-grid">
-<div class="hw-card" data-title="Co-Aperture Dual-Circularly Polarized LRA Package Antenna"><picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype beside a coin for scale" loading="lazy"></picture></div>
-<div class="hw-card" data-title="Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna"><picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture></div>
+<div class="hw-card" data-title="Co-Aperture Dual-Circularly Polarized LRA Package Antenna"><picture><source srcset="/images/HW_LRA_DualCP.webp" type="image/webp"><img src="/images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype beside a coin for scale" loading="lazy"></picture></div>
+<div class="hw-card" data-title="Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna"><picture><source srcset="/images/HW_LRA_CoLinear.webp" type="image/webp"><img src="/images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture></div>
 </div>
 
 ## Packaged Microsystems {#packaged-microsystems}
