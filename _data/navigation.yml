@@ -16,6 +16,16 @@ main:
       - title: "Patents"
         url: "/#-patents"
 
+  - title: "Research Prototypes"
+    url: "/#research-prototypes"
+    children:
+      - title: "Radar Systems"
+        url: "/#radar-systems"
+      - title: "Full-Duplex Antennas"
+        url: "/#full-duplex-antennas"
+      - title: "Packaged Microsystems"
+        url: "/#packaged-microsystems"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 

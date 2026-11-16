@@ -181,6 +181,60 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - <span class="refnum">[1]</span> 一种用于FMCW雷达运动感知增强的频率重构方法, 国家发明专利, 申请号: CN202410454696.9
 
 
+<span class='anchor' id='research-prototypes'></span>
+# ⚙️ Research Prototypes
+
+Here are some of the hardware systems and prototypes I have designed, spanning radar systems, full-duplex antennas, and packaged microsystems.
+
+## Radar Systems
+
+<div class="hw-grid">
+<div class="hw-card">
+<picture><source srcset="images/HW_DualPLL_5p8GHz.webp" type="image/webp"><img src="images/HW_DualPLL_5p8GHz.jpg" alt="PCB layout of the 5.8 GHz dual-PLL low-IF radar" loading="lazy"></picture>
+<div class="hw-card-body">
+<p class="hw-card-title">5.8 GHz Dual-PLL Low-IF Radar</p>
+<p class="hw-card-desc">A dual-phase-locked-loop low-IF radar prototype for precise displacement motion detection, featuring asynchronous bandpass sampling.</p>
+</div>
+</div>
+<div class="hw-card">
+<picture><source srcset="images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture>
+<div class="hw-card-body">
+<p class="hw-card-title">24 GHz FMCW Radar (SRK1101A 1T1R)</p>
+<p class="hw-card-desc">A compact 24 GHz FMCW radar module built with the SRK1101A 1T1R chipset for short-range motion and vital-sign sensing.</p>
+</div>
+</div>
+<div class="hw-card">
+<picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture>
+<div class="hw-card-body">
+<p class="hw-card-title">24 GHz FMCW Radar (RC2412FR 1T2R)</p>
+<p class="hw-card-desc">A 24 GHz FMCW radar platform based on the RC2412FR 1T2R chipset, enabling multi-channel sensing and beamforming experiments.</p>
+</div>
+</div>
+</div>
+
+## Full-Duplex Antennas
+
+<div class="hw-grid">
+<div class="hw-card">
+<picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype" loading="lazy"></picture>
+<div class="hw-card-body">
+<p class="hw-card-title">Co-Aperture Dual-Circularly Polarized LRA Package Antenna</p>
+<p class="hw-card-desc">A self-decoupled, dual-circularly polarized laminated resonator antenna package for in-band full-duplex operation.</p>
+</div>
+</div>
+<div class="hw-card">
+<picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture>
+<div class="hw-card-body">
+<p class="hw-card-title">Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna</p>
+<p class="hw-card-desc">A compact elliptical laminated resonator antenna package with a shared radiator for co-linearly polarized full-duplex operation.</p>
+</div>
+</div>
+</div>
+
+## Packaged Microsystems
+
+*More prototypes coming soon.*
+
 # 🎖 Honors and Awards
 - *2026.10* The Doctoral Student Program of the Young S&amp;T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
 - *2026.10* National Scholarship (Graduate)
