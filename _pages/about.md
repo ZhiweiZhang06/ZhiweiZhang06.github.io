@@ -63,6 +63,40 @@ Analysis and Experiments on the Impact of Frequency Nonlinearity on Displacement
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2026Cardiogram.jpg' alt="Composite figure of the 4T8R sparse MIMO FMCW radar system prototype, 4-D digital beamforming, 1-D motion-frequency beamforming, and 3-D beamforming for multi-target microwave cardiogram sensing" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p>
+<span style="font-weight:bold; font-size:20px; color:#000000;">
+Accurate Multitarget Microwave Cardiogram Sensing With 4-D Digital Beamforming Technique Based on a K-Band Short-Range End-to-End 4T8R Sparse MIMO FMCW Radar System
+</span> <a href="https://doi.org/10.1109/TMTT.2025.3615997" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
+</p>
+
+<span class="refnum">[8]</span> Jiayu Zhang, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa Mao <br>
+***IEEE Transactions on Microwave Theory and Techniques, 2026*** <br>
+- This system can be applied to multi-target microwave cardiogram sensing to support future non-contact medical applications.
+- This novel 4D beamforming technology enables accurate 3D multi-target localization and 1D microwave cardiogram motion sensing, and can efficiently remove respiratory motion interference in a linear and distortion-free manner. This approach is validated using a custom-designed 24 GHz 4T8R sparse MIMO FMCW radar system and applied to multi-target microwave cardiogram sensing in both sitting and lying postures.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2025Leakage.jpg' alt="Composite figure of the sparse radar prototype, signal processing chain, and human point clouds for frequency-domain leakage and stationary clutter cancellation with a K-band sparse MIMO FMCW radar" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p>
+<span style="font-weight:bold; font-size:20px; color:#000000;">
+Frequency-Domain Leakage and Stationary Clutter Cancellation Technique With a K-Band Short-Range End-to-End Sparse MIMO FMCW Radar System
+</span> <a href="https://doi.org/10.1109/TMTT.2025.3565631" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
+</p>
+
+<span class="refnum">[7]</span> Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao <br>
+***IEEE Transactions on Microwave Theory and Techniques, 2025*** <br>
+- This technology can be applied to MIMO FMCW radar for RF leakage and static clutter cancellation.
+- The frequency-domain characteristics of the intermediate frequency (IF) signal are used to effectively remove interference targets such as leakage and static clutter, enabling accurate target detection. This approach is validated using a custom-designed 24 GHz sparse MIMO FMCW radar system and applied to multi-person point cloud trajectory detection in indoor environments.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MTT</div><img src='images/TMTT2024zzw1.png' alt="First page of the paper: Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurable Technique" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
