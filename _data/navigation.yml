@@ -11,6 +11,13 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    children:
+      - title: "Journal Papers"
+        url: "/#journal-papers"
+      - title: "Conference Papers"
+        url: "/#conference-papers"
+      - title: "Patents"
+        url: "/#-patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

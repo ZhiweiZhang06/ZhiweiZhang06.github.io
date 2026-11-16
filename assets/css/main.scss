@@ -107,3 +107,66 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Publications dropdown in masthead nav */
+.nav-dropdown {
+    position: relative;
+
+    .nav-caret {
+        font-size: .7em;
+        margin-left: .2em;
+    }
+
+    .nav-dropdown-menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        min-width: 220px;
+        margin: 0;
+        padding: 5px 0;
+        list-style: none;
+        background: #fff;
+        border: 1px solid #dedede;
+        border-radius: $border-radius;
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+        z-index: 100;
+
+        li {
+            display: block;
+            font-weight: normal;
+        }
+
+        a {
+            display: block;
+            margin: 0;
+            padding: 10px 20px;
+            font-size: $type-size-6;
+            white-space: nowrap;
+
+            &:before { display: none; }
+            &:hover {
+                background: mix(#fff, $primary-color, 85%);
+                color: $primary-color;
+            }
+        }
+    }
+
+    &:hover > .nav-dropdown-menu,
+    &:focus-within > .nav-dropdown-menu {
+        display: block;
+    }
+}
+
+/* In the collapsed (mobile) menu, show children inline */
+.hidden-links .nav-dropdown-menu {
+    display: block;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+
+    li a { padding-left: 2em; }
+}
