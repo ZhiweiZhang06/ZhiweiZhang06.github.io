@@ -190,7 +190,7 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 
 <div class="hw-grid">
 <div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
-<div class="hw-card" data-title="5.8 GHz Dual-PLL Low-IF Radar"><picture><source srcset="images/HW_DualPLL_5p8GHz.webp" type="image/webp"><img src="images/HW_DualPLL_5p8GHz.jpg" alt="PCB layout of the 5.8 GHz dual-PLL low-IF radar" loading="lazy"></picture></div>
+<div class="hw-card" data-title="2.4 GHz Radar System"><picture><source srcset="images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="images/HW_Radar_2p4GHz.jpg" alt="PCB layout of the 2.4 GHz radar system" loading="lazy"></picture></div>
 <div class="hw-card" data-title="24 GHz FMCW Radar (SRK1101A 1T1R)"><picture><source srcset="images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture></div>
 <div class="hw-card" data-title="24 GHz FMCW Radar (RC2412FR 1T2R)"><picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture></div>
 </div>
