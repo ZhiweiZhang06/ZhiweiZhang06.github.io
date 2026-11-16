@@ -73,6 +73,25 @@ Enhanced Motion Sensing With FMCW Radar Based on a Novel Frequency-Reconfigurabl
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p>
+<a href="https://ieeexplore.ieee.org/document/11719485"
+   style="font-weight:bold; font-size:20px; color:#000000; text-decoration:none;">
+A Wideband Self-Decoupled Co-Aperture Dual-Circularly Polarized Laminated Resonator Antenna for In-Band Full-Duplex Applications
+</a>
+</p>
+
+**Zhiwei Zhang**, Yaowei Hou, Linsheng Wu, Changzhan Gu* and Junfa Mao <br>
+***IEEE Transactions on Antennas and Propagation, 2026*** <br>
+- This paper presents a wideband self-decoupled co-aperture dual-circularly polarized laminated resonator antenna for in-band full-duplex applications.
+- A multilayer configuration with an integrated feeding network is designed to achieve dual-circular polarization with high port isolation.
+</div>
+</div>
+
+
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">IEEE T-MTT</span>
 Jiayu Zhang, Yuchen Li, **Zhiwei Zhang**, Changzhan Gu* and Junfa Mao, "A Low-Complexity and Efficient Spatial Resampling Technique for Range–Angle Decoupling With 4-D High-Resolution MIMO FMCW Radar System," ***IEEE Transactions on Microwave Theory and Techniques***, 2026, doi: 10.1109/TMTT.2026.3676976.
 
@@ -101,6 +120,9 @@ Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu*, and Junfa Ma, “Target
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CSRSWTC2026</span>
 **Zhiwei Zhang**,  Yuyang Chen, Lu Meng, Yunyi Jiang, Sheng Wang, Chao Yang, Linsheng Wu, Jianjun Zhou, Jing Jin, and Changzhan Gu*, “A 60 GHz Millimeter-Wave Radar System for Human Respiration Sensing Toward Phased-Array Applications,” ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2026.***
 <span style="color:#b30000;">(Selected for the Best Student Paper Finalist)</span>
+
+- <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">CSRSWTC2026</span>
+Yunyi Jiang, **Zhiwei Zhang**, Lina Ma and Changzhan Gu*, “A Parasitic-Strip-Based H-Plane Decoupling Technique for Isolation Enhancement in Compact MIMO Patch Antennas,” ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2026.***
 
 - <span style="background:#0052cc;color:#ffffff;padding:2px 8px;border-radius:4px;font-weight:600;">NCMMW2026</span>
 **张志伟**, 侯耀威 和 顾昌展*, “一种基于 LTCC 工艺的宽带双圆极化 LRA 封装天线,” ***全国微波毫米波会议(NCMMW), 2026.***
