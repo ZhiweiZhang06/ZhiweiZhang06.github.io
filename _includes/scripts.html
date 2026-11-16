@@ -37,6 +37,19 @@
     });
   }
 
+  function syncLangActive(lang) {
+    // The "active" highlight lives on the <li>, which swapNav did not touch,
+    // so move it to the language that is now displayed.
+    document.querySelectorAll('.lang-item').forEach(function (li) {
+      var a = li.querySelector('[data-lang-link]');
+      if (a && a.getAttribute('data-lang') === lang) {
+        li.classList.add('active');
+      } else {
+        li.classList.remove('active');
+      }
+    });
+  }
+
   function apply(doc, lang, push) {
     var scrollY = window.scrollY;
 
@@ -49,6 +62,7 @@
     if (curProfile && newProfile) curProfile.innerHTML = newProfile.innerHTML;
 
     swapNav(doc);
+    syncLangActive(lang);
 
     document.title = doc.title;
     document.documentElement.lang = doc.documentElement.lang || (lang === 'zh' ? 'zh' : 'en');
