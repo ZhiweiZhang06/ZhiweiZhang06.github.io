@@ -212,6 +212,7 @@ h1:before, .anchor:before {
 }
 
 .hw-card {
+    position: relative;
     border: 1px solid #e0e0e0;
     border-radius: $border-radius;
     overflow: hidden;
@@ -223,28 +224,22 @@ h1:before, .anchor:before {
         height: auto;
     }
 
-    .hw-card-body {
-        padding: .6rem .85rem .85rem;
-    }
-
-    .hw-card-title {
+    &[data-title]::before {
+        content: attr(data-title);
+        position: absolute;
+        top: .55rem;
+        left: .55rem;
+        z-index: 2;
+        max-width: calc(100% - 1.1rem);
+        padding: .3rem .55rem;
+        background: #0b4fa3;
+        color: #fff;
+        font-size: .82rem;
         font-weight: 700;
-        margin: 0 0 .3rem;
-    }
-
-    .hw-index {
-        color: #0b5cab;
-        font-size: .72em;
-        font-weight: 700;
-        line-height: 0;
-        margin-left: .18rem;
-        vertical-align: super;
-    }
-
-    .hw-card-desc {
-        font-size: .9em;
-        margin: 0;
-        color: #555;
+        line-height: 1.25;
+        border-radius: 3px;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, .25);
+        pointer-events: none;
     }
 }
 

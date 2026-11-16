@@ -189,67 +189,17 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 ## Radar Systems
 
 <div class="hw-grid">
-<div class="hw-card">
-<picture><source srcset="images/HW_SparseMIMO_60GHz_4T4R.webp" type="image/webp"><img src="images/HW_SparseMIMO_60GHz_4T4R.jpg" alt="60-GHz 4T4R sparse MIMO radar system with annotated RF, BB, antenna, and baseboard boards" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">60-GHz 4T4R Sparse MIMO Radar System<sup class="hw-index">1</sup></p>
-<p class="hw-card-desc">A sparse MIMO radar prototype integrating a 4T4R transceiver, RX array, PLL, and baseband signal chain for multi-channel millimeter-wave sensing.</p>
-</div>
-</div>
-<div class="hw-card">
-<picture><source srcset="images/HW_SparseMIMO_24GHz_4T8R_V2.webp" type="image/webp"><img src="images/HW_SparseMIMO_24GHz_4T8R_V2.jpg" alt="24-GHz 4T8R sparse MIMO radar system V2 with annotated RF, BB, antenna, and baseboard boards" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">24-GHz 4T8R Sparse MIMO Radar System V2<sup class="hw-index">2</sup></p>
-<p class="hw-card-desc">A second-generation 24-GHz sparse MIMO radar with 4 transmit and 8 receive channels, combining antenna arrays, RF front end, and baseband processing boards.</p>
-</div>
-</div>
-<div class="hw-card">
-<picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">120 GHz AIP FMCW Radar (TRX_120_001)<sup class="hw-index">3</sup></p>
-<p class="hw-card-desc">A 120 GHz FMCW radar module in antenna-in-package (AIP) form, measuring only 2.91 cm by 1.74 cm for compact high-resolution sensing.</p>
-</div>
-</div>
-<div class="hw-card">
-<picture><source srcset="images/HW_DualPLL_5p8GHz.webp" type="image/webp"><img src="images/HW_DualPLL_5p8GHz.jpg" alt="PCB layout of the 5.8 GHz dual-PLL low-IF radar" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">5.8 GHz Dual-PLL Low-IF Radar<sup class="hw-index">4</sup></p>
-<p class="hw-card-desc">A dual-phase-locked-loop low-IF radar prototype for precise displacement motion detection, featuring asynchronous bandpass sampling.</p>
-</div>
-</div>
-<div class="hw-card">
-<picture><source srcset="images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">24 GHz FMCW Radar (SRK1101A 1T1R)<sup class="hw-index">5</sup></p>
-<p class="hw-card-desc">A compact 24 GHz FMCW radar module built with the SRK1101A 1T1R chipset for short-range motion and vital-sign sensing.</p>
-</div>
-</div>
-<div class="hw-card">
-<picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">24 GHz FMCW Radar (RC2412FR 1T2R)<sup class="hw-index">6</sup></p>
-<p class="hw-card-desc">A 24 GHz FMCW radar platform based on the RC2412FR 1T2R chipset, enabling multi-channel sensing and beamforming experiments.</p>
-</div>
-</div>
+<div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
+<div class="hw-card" data-title="5.8 GHz Dual-PLL Low-IF Radar"><picture><source srcset="images/HW_DualPLL_5p8GHz.webp" type="image/webp"><img src="images/HW_DualPLL_5p8GHz.jpg" alt="PCB layout of the 5.8 GHz dual-PLL low-IF radar" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (SRK1101A 1T1R)"><picture><source srcset="images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (RC2412FR 1T2R)"><picture><source srcset="images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture></div>
 </div>
 
 ## Full-Duplex Antennas
 
 <div class="hw-grid">
-<div class="hw-card">
-<picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">Co-Aperture Dual-Circularly Polarized LRA Package Antenna</p>
-<p class="hw-card-desc">A self-decoupled, dual-circularly polarized laminated resonator antenna package for in-band full-duplex operation.</p>
-</div>
-</div>
-<div class="hw-card">
-<picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture>
-<div class="hw-card-body">
-<p class="hw-card-title">Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna</p>
-<p class="hw-card-desc">A compact elliptical laminated resonator antenna package with a shared radiator for co-linearly polarized full-duplex operation.</p>
-</div>
-</div>
+<div class="hw-card" data-title="Co-Aperture Dual-Circularly Polarized LRA Package Antenna"><picture><source srcset="images/HW_LRA_DualCP.webp" type="image/webp"><img src="images/HW_LRA_DualCP.jpg" alt="Co-aperture dual-circularly polarized LRA packaged antenna prototype" loading="lazy"></picture></div>
+<div class="hw-card" data-title="Co-Radiator Co-Linearly Polarized Elliptical LRA Package Antenna"><picture><source srcset="images/HW_LRA_CoLinear.webp" type="image/webp"><img src="images/HW_LRA_CoLinear.jpg" alt="Co-radiator co-linearly polarized elliptical LRA packaged antenna prototype" loading="lazy"></picture></div>
 </div>
 
 ## Packaged Microsystems
