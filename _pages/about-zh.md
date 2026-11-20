@@ -223,10 +223,13 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 ## 雷达系统 {#radar-systems}
 
 <div class="hw-grid">
-<div class="hw-card" data-title="120 GHz 天线封装（AiP）FMCW 雷达（TRX_120_001）"><picture><source srcset="/images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="/images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz 天线封装 FMCW 雷达模块（TRX_120_001），尺寸 2.91 cm × 1.74 cm，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
-<div class="hw-card" data-title="2.4 GHz 雷达系统"><picture><source srcset="/images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="/images/HW_Radar_2p4GHz.jpg" alt="2.4 GHz 雷达系统的 PCB 版图" loading="lazy"></picture></div>
-<div class="hw-card" data-title="24 GHz FMCW 雷达（SRK1101A 1T1R）"><picture><source srcset="/images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK1101A.jpg" alt="基于 SRK1101A 1T1R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
+<div class="hw-card" data-title="2.4 GHz 连续波（CW）雷达"><picture><source srcset="/images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="/images/HW_Radar_2p4GHz.jpg" alt="2.4 GHz 连续波雷达系统的 PCB" loading="lazy"></picture></div>
+<div class="hw-card" data-title="5.8 GHz 低中频（Low-IF）雷达"><picture><source srcset="/images/HW_Radar_5p8GHz.webp" type="image/webp"><img src="/images/HW_Radar_5p8GHz.jpg" alt="5.8 GHz 低中频雷达系统的 PCB" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW 雷达（ADI 2T4R）"><picture><source srcset="/images/HW_FMCW_24GHz_ADI2T4R.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_ADI2T4R.jpg" alt="基于 ADI 2T4R 芯片组的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
 <div class="hw-card" data-title="24 GHz FMCW 雷达（RC2412FR 1T2R）"><picture><source srcset="/images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_RC2412FR.jpg" alt="基于 RC2412FR 1T2R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW 雷达（SRK1101A 1T1R）"><picture><source srcset="/images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK1101A.jpg" alt="基于 SRK1101A 1T1R 的 24 GHz FMCW 雷达板" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW 雷达（SRK2401 1T1R）"><picture><source srcset="/images/HW_FMCW_24GHz_SRK2401.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK2401.jpg" alt="基于 SRK2401 1T1R 天线封装模块的 24 GHz FMCW 雷达" loading="lazy"></picture></div>
+<div class="hw-card" data-title="120 GHz 天线封装（AiP）FMCW 雷达（TRX_120_001）"><picture><source srcset="/images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="/images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz 天线封装 FMCW 雷达模块（TRX_120_001），尺寸 2.91 cm × 1.74 cm，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
 </div>
 
 ## 全双工天线 {#full-duplex-antennas}

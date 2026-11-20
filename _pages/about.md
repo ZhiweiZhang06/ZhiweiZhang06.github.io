@@ -226,10 +226,13 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 ## Radar Systems {#radar-systems}
 
 <div class="hw-grid">
-<div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="/images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="/images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz AIP FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
-<div class="hw-card" data-title="2.4 GHz Radar System"><picture><source srcset="/images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="/images/HW_Radar_2p4GHz.jpg" alt="PCB layout of the 2.4 GHz radar system" loading="lazy"></picture></div>
-<div class="hw-card" data-title="24 GHz FMCW Radar (SRK1101A 1T1R)"><picture><source srcset="/images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture></div>
+<div class="hw-card" data-title="2.4 GHz CW Radar"><picture><source srcset="/images/HW_Radar_2p4GHz.webp" type="image/webp"><img src="/images/HW_Radar_2p4GHz.jpg" alt="PCB of the 2.4 GHz continuous-wave radar system" loading="lazy"></picture></div>
+<div class="hw-card" data-title="5.8 GHz Low-IF Radar"><picture><source srcset="/images/HW_Radar_5p8GHz.webp" type="image/webp"><img src="/images/HW_Radar_5p8GHz.jpg" alt="PCB of the 5.8 GHz low-IF radar system" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (ADI 2T4R)"><picture><source srcset="/images/HW_FMCW_24GHz_ADI2T4R.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_ADI2T4R.jpg" alt="24 GHz FMCW radar board based on the ADI 2T4R chipset" loading="lazy"></picture></div>
 <div class="hw-card" data-title="24 GHz FMCW Radar (RC2412FR 1T2R)"><picture><source srcset="/images/HW_FMCW_24GHz_RC2412FR.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_RC2412FR.jpg" alt="24 GHz FMCW radar board based on RC2412FR 1T2R" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (SRK1101A 1T1R)"><picture><source srcset="/images/HW_FMCW_24GHz_SRK1101A.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK1101A.jpg" alt="24 GHz FMCW radar board based on SRK1101A 1T1R" loading="lazy"></picture></div>
+<div class="hw-card" data-title="24 GHz FMCW Radar (SRK2401 1T1R)"><picture><source srcset="/images/HW_FMCW_24GHz_SRK2401.webp" type="image/webp"><img src="/images/HW_FMCW_24GHz_SRK2401.jpg" alt="24 GHz FMCW radar with an SRK2401 1T1R antenna-in-package module" loading="lazy"></picture></div>
+<div class="hw-card" data-title="120 GHz AIP FMCW Radar (TRX_120_001)"><picture><source srcset="/images/HW_AIP_120GHz_TRX120001.webp" type="image/webp"><img src="/images/HW_AIP_120GHz_TRX120001.jpg" alt="120 GHz antenna-in-package FMCW radar module (TRX_120_001), 2.91 cm by 1.74 cm, next to a coin for scale" loading="lazy"></picture></div>
 </div>
 
 ## Full-Duplex Antennas {#full-duplex-antennas}
