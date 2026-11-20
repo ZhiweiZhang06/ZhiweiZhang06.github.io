@@ -14,19 +14,21 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">{% if is_zh %}主页{% else %}Homepage{% endif %}</a></li>
           {% for link in site.data.navigation.main %}
+            {% assign anchor = link.url | remove_first: '/' %}
             {% if is_zh and link.title_zh %}{% assign link_title = link.title_zh %}{% else %}{% assign link_title = link.title %}{% endif %}
             {% if link.children %}
             <li class="masthead__menu-item nav-dropdown">
-              <a href="{{ domain }}{{ lang_prefix }}{{ link.url }}">{{ link_title }} <span class="nav-caret">▾</span></a>
+              <a href="{{ anchor }}">{{ link_title }} <span class="nav-caret">▾</span></a>
               <ul class="nav-dropdown-menu">
                 {% for child in link.children %}
+                  {% assign child_anchor = child.url | remove_first: '/' %}
                   {% if is_zh and child.title_zh %}{% assign child_title = child.title_zh %}{% else %}{% assign child_title = child.title %}{% endif %}
-                  <li><a href="{{ domain }}{{ lang_prefix }}{{ child.url }}">{{ child_title }}</a></li>
+                  <li><a href="{{ child_anchor }}">{{ child_title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ lang_prefix }}{{ link.url }}">{{ link_title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ anchor }}">{{ link_title }}</a></li>
             {% endif %}
           {% endfor %}
           <li class="masthead__menu-item lang-item{% if is_zh %} active{% endif %}"><a href="/zh/" hreflang="zh-CN" data-lang-link data-lang="zh">中文</a></li>
