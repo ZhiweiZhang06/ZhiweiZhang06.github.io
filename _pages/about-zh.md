@@ -247,12 +247,19 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - *2026.10* 中国科协青年人才托举工程博士生专项计划（中国电子学会培育）
 - *2026.10* 国家奖学金（研究生）
 - *2026.8* 2026 IEEE MTT-S 上海研究生论文竞赛“电子信息创新前沿” Best Student Paper 二等奖
+  <span class="award-significance">34 篇录用论文中前 6</span>
 - *2025.11* CSRSWTC 2025 最佳论文奖
+  <span class="award-significance">397 篇录用论文中前 3</span>
 - *2024.06* IEEE MTT-S 本科生/研究生奖学金 —— 2024 年第二批
+  <span class="award-significance">全球每轮最多 10 人获奖</span>
 - *2024.05* IEEE MTT-S IWS 2024 MVC 竞赛三等奖
+  <span class="award-significance">280 篇录用论文中前 9</span>
 - *2023.06* 上海交通大学正阳奖学金
+  <span class="award-significance">上海交通大学全校仅 6 人获奖</span>
 - *2021.12* 国家励志奖学金（本科生）
+  <span class="award-significance">上海交通大学电子信息与电气工程学院本科生前 10%</span>
 - *2020.12* 国家励志奖学金（本科生）
+  <span class="award-significance">上海交通大学电子信息与电气工程学院本科生前 10%</span>
 
 # 动态 {#news}
 

@@ -210,6 +210,16 @@ h1:before, .anchor:before {
     border-radius: 4px;
 }
 
+/* Award significance: muted detail line beneath each honor */
+.page__content #honors-and-awards > li .award-significance {
+    display: block;
+    margin-top: .1em;
+    font-size: .82em;
+    font-style: normal;
+    line-height: 1.45;
+    color: #6f7780;
+}
+
 /* Light separators between bibliography entries for scannability */
 .page__content #journal-papers > li,
 .page__content #conference-papers > li {

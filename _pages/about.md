@@ -250,12 +250,19 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 - *2026.10* The Doctoral Student Program of the Young S&amp;T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
 - *2026.10* National Scholarship (Graduate)
 - *2026.8* 2026 IEEE MTT-S Shanghai Postgraduate Paper Competition on Frontiers in Electronics and Information Innovation Best Student Paper Award Second Place Winner
+  <span class="award-significance">Selected among the top 6 papers out of 34 accepted papers.</span>
 - *2025.11* CSRSWTC 2025 Best Paper Award
+  <span class="award-significance">Selected as one of the top 3 best papers out of 397 accepted papers.</span>
 - *2024.06* IEEE MTT-S Undergraduate/Pre-graduate Scholarship – 2024 Cycle 2 Awards
+  <span class="award-significance">Up to 10 recipients worldwide per round.</span>
 - *2024.05* IEEE MTT-S IWS 2024 MVC Competition Third Place Winner
+  <span class="award-significance">Selected among the top 9 papers out of 280 accepted papers.</span>
 - *2023.06* Zhengyang Scholarship at Shanghai Jiao Tong University
+  <span class="award-significance">Only 6 recipients university-wide at Shanghai Jiao Tong University.</span>
 - *2021.12* National Encouragement Scholarship (Undergraduate)
+  <span class="award-significance">Awarded to the top 10% of undergraduates in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.</span>
 - *2020.12* National Encouragement Scholarship (Undergraduate)
+  <span class="award-significance">Awarded to the top 10% of undergraduates in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.</span>
 
 # News {#news}
 
