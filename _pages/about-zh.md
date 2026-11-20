@@ -235,7 +235,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 ## 全双工天线 {#full-duplex-antennas}
 
 <div class="hw-grid ant-grid">
-<div class="hw-card" data-title="共口径双圆极化 LRA 封装天线"><picture><source srcset="/images/HW_LRA_DualCP.webp" type="image/webp"><img src="/images/HW_LRA_DualCP.jpg" alt="共口径双圆极化 LRA 封装天线原型，旁边放置硬币作为尺寸参考" loading="lazy"></picture></div>
+<div class="hw-card" data-title="共口径双圆极化 LRA 封装天线"><picture><source srcset="/images/HW_LRA_DualCP.webp" type="image/webp"><img src="/images/HW_LRA_DualCP.jpg" alt="共口径双圆极化 LRA 封装天线原型" loading="lazy"></picture></div>
 <div class="hw-card" data-title="共辐射同极化椭圆 LRA 封装天线"><picture><source srcset="/images/HW_LRA_CoLinear.webp" type="image/webp"><img src="/images/HW_LRA_CoLinear.jpg" alt="共辐射同极化椭圆 LRA 封装天线原型" loading="lazy"></picture></div>
 </div>
 
