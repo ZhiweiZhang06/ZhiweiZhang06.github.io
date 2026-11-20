@@ -244,17 +244,18 @@ h1:before, .anchor:before {
 }
 /* Research Prototypes gallery — reference-style grid showcase */
 .hw-grid {
-    display: grid;
-    grid-template-columns: repeat(3, max-content);
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    justify-items: center;
-    gap: 1.7rem 1.5rem;
+    align-items: flex-start;
+    gap: 1.6rem;
     margin: 1.25rem 0 2rem;
 }
 
 .hw-card {
     position: relative;
     display: flex;
+    flex: 0 0 auto;
     align-items: center;
     justify-content: center;
     width: fit-content;
@@ -316,20 +317,19 @@ h1:before, .anchor:before {
     }
 }
 
-/* Antennas: centered two-column grid, same card size as the radar row */
+/* Antennas use the same centered flex flow as the radar gallery */
 .ant-grid {
-    grid-template-columns: repeat(2, max-content);
     margin-left: auto;
     margin-right: auto;
 }
 
 @media (max-width: 900px) {
-    .hw-grid { grid-template-columns: repeat(2, max-content); gap: 1.4rem 1.2rem; }
+    .hw-grid { gap: 1.3rem; }
     .hw-card img { height: 138px; }
 }
 
 @media (max-width: 600px) {
-    .hw-grid { grid-template-columns: max-content; gap: 1.35rem; }
+    .hw-grid { gap: 1.2rem; }
     .hw-card img { height: 128px; }
 }
 
