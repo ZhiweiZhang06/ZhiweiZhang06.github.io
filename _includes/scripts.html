@@ -102,6 +102,27 @@
     load(link.getAttribute('data-lang'), true);
   });
 
+  /* Delegated in-page anchor scrolling. The theme binds smooth-scroll to each
+     <a> at load time; the language swap replaces those nodes via innerHTML and
+     drops the handlers. A delegated listener keeps every anchor working after a
+     switch, scrolling in place instead of navigating to a new page. */
+  document.addEventListener('click', function (e) {
+    var link = e.target.closest('a[href^="#"]');
+    if (!link || link.hasAttribute('data-lang-link')) return;
+    var id = link.getAttribute('href').slice(1);
+    if (!id) return;
+    var target = document.getElementById(id) || document.querySelector('[name="' + id + '"]');
+    if (!target) return;
+    e.preventDefault();
+    var masthead = document.querySelector('.masthead');
+    var offset = masthead ? masthead.getBoundingClientRect().height + 12 : 72;
+    var y = target.getBoundingClientRect().top + window.pageYOffset - offset;
+    window.scrollTo({ top: y < 0 ? 0 : y, behavior: 'smooth' });
+    if (history.replaceState) {
+      history.replaceState(history.state, '', location.pathname + location.search + '#' + id);
+    }
+  });
+
   window.addEventListener('popstate', function (e) {
     var lang = location.pathname.replace(/^\//, '').startsWith('zh') ? 'zh' : 'en';
     if (lang !== currentLang()) {
