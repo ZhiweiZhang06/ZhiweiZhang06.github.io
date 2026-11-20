@@ -353,8 +353,11 @@ h1:before, .anchor:before {
         content: "";
         position: absolute;
         left: 0;
-        top: .28em;
-        bottom: .28em;
+        /* The theme's h1:before anchor spacer (height 2em, margin-top -2em)
+           expands the heading box upward. Offset by 2em so the bar aligns
+           with the actual text instead of covering the previous section. */
+        top: 2em;
+        bottom: .5em;
         width: 4px;
         border-radius: 2px;
         background: #0b4fa3;
