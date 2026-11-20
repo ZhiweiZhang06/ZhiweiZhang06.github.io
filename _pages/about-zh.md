@@ -257,9 +257,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - *2023.06* 上海交通大学正阳奖学金
   <span class="award-significance">上海交通大学全校仅 6 人获奖</span>
 - *2021.12* 国家励志奖学金（本科生）
-  <span class="award-significance">上海交通大学电子信息与电气工程学院本科生前 10%</span>
 - *2020.12* 国家励志奖学金（本科生）
-  <span class="award-significance">上海交通大学电子信息与电气工程学院本科生前 10%</span>
 
 # 动态 {#news}
 

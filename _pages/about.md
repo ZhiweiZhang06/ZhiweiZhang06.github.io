@@ -260,9 +260,7 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 - *2023.06* Zhengyang Scholarship at Shanghai Jiao Tong University
   <span class="award-significance">Only 6 recipients university-wide at Shanghai Jiao Tong University.</span>
 - *2021.12* National Encouragement Scholarship (Undergraduate)
-  <span class="award-significance">Awarded to the top 10% of undergraduates in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.</span>
 - *2020.12* National Encouragement Scholarship (Undergraduate)
-  <span class="award-significance">Awarded to the top 10% of undergraduates in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.</span>
 
 # News {#news}
 
