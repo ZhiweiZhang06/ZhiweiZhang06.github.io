@@ -211,7 +211,7 @@ h1:before, .anchor:before {
 }
 
 /* Award significance: muted detail line beneath each honor */
-.page__content #honors-and-awards > li .award-significance {
+.page__content .award-significance {
     display: block;
     margin-top: .1em;
     font-size: .82em;
@@ -221,8 +221,8 @@ h1:before, .anchor:before {
 }
 
 /* Light separators between bibliography entries for scannability */
-.page__content #journal-papers > li,
-.page__content #conference-papers > li {
+.page__content #journal-papers + ul > li,
+.page__content #conference-papers + ul > li {
     border-bottom: 1px solid #eef1f5;
     padding-bottom: .6em;
 
