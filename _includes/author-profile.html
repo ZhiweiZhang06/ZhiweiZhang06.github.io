@@ -22,11 +22,8 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ display_name }}</h3>
-    {% if display_degree or display_bio %}
-      <p class="author__bio">
-        {% if display_degree %}<span class="author__degree">{{ display_degree }}</span>{% endif %}{% if display_degree and display_bio %}{% if profile_zh %}，{% else %}, {% endif %}{% endif %}{{ display_bio }}
-      </p>
-    {% endif %}
+    {% if display_degree %}<p class="author__degree">{{ display_degree }}</p>{% endif %}
+    {% if display_bio %}<p class="author__bio">{{ display_bio }}</p>{% endif %}
     {% if display_advisor %}<p class="author__advisor">{% if profile_zh %}导师：{% else %}Advisor: {% endif %}{{ display_advisor }}</p>{% endif %}
   </div>
 

@@ -21,14 +21,14 @@ I have authored or co-authored more than 20 journal and conference papers, inclu
 
 <span class="bio-interests"><strong>Research interests:</strong> millimeter-wave radar systems &middot; full-duplex antennas &middot; heterogeneous integration and packaging technologies.</span>
 
-# 📖 Education {#education}
+# Education {#education}
 - *2024.09 - Present*, Ph.D. in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China <br>
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2022.09 - 2024.09*, M.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China <br>
 State Key Laboratory of Radio Frequency Heterogeneous Integration.
 - *2018.09 - 2022.06*, B.S. in  Electronic science and technology, Shanghai Jiao Tong University, Shanghai, China. 
 
-# 📝 Publications {#publications}
+# Publications {#publications}
 ## Featured Papers {#featured-papers}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='/images/TAP2026DualCP.jpg' alt="Antenna structure, fabricated prototype, measurement setup, and simulated and measured S-parameters of the proposed dual-circularly polarized laminated resonator antenna" width="100%"></div></div>
@@ -162,7 +162,7 @@ Yunyi Jiang, **Zhiwei Zhang**, Lina Ma and Changzhan Gu&#42;, "A Parasitic-Strip
 
 - <span class="refnum">[14]</span> <span class="lbl">CSRSWTC2026</span>
 **Zhiwei Zhang**, Yuyang Chen, Lu Meng, Yunyi Jiang, Sheng Wang, Chao Yang, Linsheng Wu, Jianjun Zhou, Jing Jin, and Changzhan Gu&#42;, "A 60 GHz Millimeter-Wave Radar System for Human Respiration Sensing Toward Phased-Array Applications," ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2026.*** <a href="https://doi.org/10.1109/CSRSWTC71154.2026.11669177" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(Selected for the Best Student Paper Finalist)</span>
+<span class="award-note">(Selected for the Best Student Paper Finalist)</span>
 
 - <span class="refnum">[13]</span> <span class="lbl">APMC2025</span>
 Keke Zheng, **Zhiwei Zhang**, Jiayu Zhang, Yijing Guo, Liling Wang and Changzhan Gu&#42;, "A Robust and Accurate Sleep Apnea Detection Framework Based on a K-Band FMCW MIMO Radar," ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.*** <a href="https://doi.org/10.1109/APMC65046.2025.11377823" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
@@ -181,36 +181,36 @@ Jiayu Zhang, Shuqin Dong, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu&#
 
 - <span class="refnum">[8]</span> <span class="lbl">NCANT2025</span>
 **张志伟**, 张嘉宇 和 顾昌展&#42;, "一种基于FOWLP工艺的60 GHz宽带背腔封装天线," ***全国天线年会 (NCANT), 2025.*** <a href="https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZTAub1t0vSbC1WyWDekbPApthxxapRUHtPdX_zF5BjUCtTxSsTNIuazI4Kn5cUhR69CKJZSASOA827DsOlSvnZp9Gvo5gdRp0bZdMkiwQdgn6LMVRLecnp0rrlw4Hyb-5I28M3I4SUE5L1htTc77Of0dQ10G3lNgN6qa9xyuVlI3QiOc1CFDM2Q" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(Selected for the Best Student Paper Finalist)</span>
+<span class="award-note">(Selected for the Best Student Paper Finalist)</span>
 
 - <span class="refnum">[7]</span> <span class="lbl">CSRSWTC2025</span>
 **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Liling Wang and Changzhan Gu&#42;, "A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection," ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025.*** <a href="https://doi.org/10.1109/CSRSWTC67757.2025.11384353" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(Best Paper Award)</span>
+<span class="award-note">(Best Paper Award)</span>
 
 - <span class="refnum">[6]</span> <span class="lbl">Aces-China2024</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao, "Target Localization and Vital Signs Monitoring Based on Spatial-Temporal-Frequency Characteristics With Short-Range FMCW Radar," ***International Applied Computational Electromagnetics Society Symposium (Aces-China), 2024.*** <a href="https://doi.org/10.1109/ACES-CHINA62474.2024.10699972" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(Best Student Paper Award, 1st Prize)</span>
+<span class="award-note">(Best Student Paper Award, 1st Prize)</span>
 
 - <span class="refnum">[5]</span> <span class="lbl">ICMMT2024</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao, "Real-Time Human Motion Tracking Technique Based on a 77 GHz FMCW MIMO Radar System," ***International Conference on Microwave and Millimeter Wave Technology (ICMMT), 2024.*** <a href="https://doi.org/10.1109/ICMMT61774.2024.10672135" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
 - <span class="refnum">[4]</span> <span class="lbl">IWS2024</span>
 **Zhiwei Zhang**, Jiayu Zhang, Yuchen Li and Changzhan Gu&#42;, "Enhanced Micrometer-Scale Motion Sensing Using a Reconfigurable Virtual CW Algorithm Based on 60 GHz FMCW Radar," ***IEEE MTT-S International Wireless Symposium (IWS), 2024.*** <a href="https://doi.org/10.1109/IWS61525.2024.10713709" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(IEEE MTT-S MVC Competition Third Place Winner)</span>
+<span class="award-note">(IEEE MTT-S MVC Competition Third Place Winner)</span>
 
 - <span class="refnum">[3]</span> <span class="lbl">IMS2024</span>
 **Zhiwei Zhang**, Fei Tong, Jiayu Zhang and Changzhan Gu&#42;, "A Cost-Effective Single-Channel Displacement Measurement Technique Without Down-Conversion Using Low-IF Doppler Radar," ***IEEE MTT-S International Microwave Symposium (IMS), 2024.*** <a href="https://doi.org/10.1109/IMS40175.2024.10600334" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
 - <span class="refnum">[2]</span> <span class="lbl">IWS2023</span>
 Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa Mao, "Multi-Chirps Convolution Technique for Range Spectrum Signal Enhancement Based on a 60-GHz MIMO FMCW Radar," ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <a href="https://doi.org/10.1109/IWS58240.2023.10222617" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(Selected for the MVC Competition Finalist)</span>
+<span class="award-note">(Selected for the MVC Competition Finalist)</span>
 
 - <span class="refnum">[1]</span> <span class="lbl">IWS2023</span>
 **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu&#42; and Junfa Mao, "Accurate Heart Rate Estimation Based on Multi-Channel Cross-Correlation With a 60-GHz FMCW Radar," ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <a href="https://doi.org/10.1109/IWS58240.2023.10221898" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">(Selected for the Flash Competition Finalist)</span>
+<span class="award-note">(Selected for the Flash Competition Finalist)</span>
 
 
-# 📝 Patents {#patents}
+# Patents {#patents}
 
 - <span class="refnum">[3]</span> 宽带自去耦共口径双圆极化全双工天线, 国家发明专利, 申请号: CN202611396265.7
 
@@ -219,7 +219,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - <span class="refnum">[1]</span> 一种用于FMCW雷达运动感知增强的频率重构方法, 国家发明专利, 申请号: CN202410454696.9
 
 
-# ⚙️ Research Prototypes {#research-prototypes}
+# Research Prototypes {#research-prototypes}
 
 Here are some of the hardware systems and prototypes I have designed, spanning radar systems, full-duplex antennas, and packaged microsystems.
 
@@ -246,7 +246,7 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 
 *More prototypes coming soon.*
 
-# 🎖 Honors and Awards {#honors-and-awards}
+# Honors and Awards {#honors-and-awards}
 - *2026.10* The Doctoral Student Program of the Young S&amp;T Talents Cultivation Project, CAST (Cultivated by the Chinese Institute of Electronics)
 - *2026.10* National Scholarship (Graduate)
 - *2026.8* 2026 IEEE MTT-S Shanghai Postgraduate Paper Competition on Frontiers in Electronics and Information Innovation Best Student Paper Award Second Place Winner
@@ -257,7 +257,7 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 - *2021.12* National Encouragement Scholarship (Undergraduate)
 - *2020.12* National Encouragement Scholarship (Undergraduate)
 
-# 🔥 News {#news}
+# News {#news}
 
 - *2025.11*: &nbsp;🎉🎉  I am greatly honored to win the Best Paper Award at CSRSWTC 2025!
   
@@ -271,10 +271,10 @@ Here are some of the hardware systems and prototypes I have designed, spanning r
 
 
 <!--
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->

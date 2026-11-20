@@ -57,7 +57,9 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border: 1px solid #e4e8ee;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, .1);
             object-fit: cover;
         }
     }
@@ -113,20 +115,28 @@ h1:before, .anchor:before {
     margin-top: .8em;
 }
 
-/* Sidebar identity: keep Ph.D. status prominent and avoid duplicate affiliation */
+/* Sidebar identity: three clean lines — status / affiliation / advisor */
 .author__degree {
+    display: block;
     color: #0b4fa3;
     font-weight: 700;
-}
-
-.author__advisor {
-    margin: .2em 0 20px;
     font-size: .92em;
-    color: #555;
+    line-height: 1.5;
+    margin: 0 0 .15em;
 }
 
 .sidebar .author__bio {
-    margin-bottom: .35em;
+    display: block;
+    margin: 0 0 .3em;
+    line-height: 1.5;
+    color: #444;
+}
+
+.author__advisor {
+    display: block;
+    margin: 0 0 18px;
+    font-size: .92em;
+    color: #555;
 }
 
 /* Language switch in the top navigation */
@@ -168,16 +178,45 @@ h1:before, .anchor:before {
     white-space: nowrap;
 }
 
-/* Compact paper Link ↗ placed beside entries, not on the title */
+/* Compact paper Link ↗ as a soft pill button */
 .plink {
-    font-size: .78em;
+    display: inline-block;
+    font-size: .72em;
     font-weight: 600;
     white-space: nowrap;
-    margin-left: .35em;
+    margin-left: .4em;
+    padding: 1px 9px;
+    border: 1px solid #cfe0f5;
+    border-radius: 999px;
+    background: #f2f7fd;
     color: #0052cc;
     text-decoration: none;
+    vertical-align: baseline;
+    transition: background .15s ease, border-color .15s ease;
 
-    &:hover { text-decoration: underline; }
+    &:hover { background: #e3eefb; border-color: #9dc3ee; text-decoration: none; }
+}
+
+/* Competition / award notes shown under conference papers */
+.award-note {
+    display: inline-block;
+    margin: .15em 0 0 .1em;
+    padding: 1px 8px;
+    font-size: .78em;
+    font-weight: 600;
+    color: #b30000;
+    background: #fdf0f0;
+    border: 1px solid #f4cccc;
+    border-radius: 4px;
+}
+
+/* Light separators between bibliography entries for scannability */
+.page__content #journal-papers > li,
+.page__content #conference-papers > li {
+    border-bottom: 1px solid #eef1f5;
+    padding-bottom: .6em;
+
+    &:last-child { border-bottom: 0; }
 }
 
 /* Publications dropdown in masthead nav */
@@ -301,9 +340,15 @@ h1:before, .anchor:before {
     }
 }
 
-/* Gradient rule under the gallery section headings */
-.page__content h2[id="radar-systems"],
-.page__content h2[id="full-duplex-antennas"] {
+/* Top-level section headings: blue accent bar for a clear hierarchy */
+.page__content h1 {
+    padding-left: .65rem;
+    border-left: 4px solid #0b4fa3;
+    margin-top: 1.4em;
+}
+
+/* Unified gradient rule under every subsection heading */
+.page__content h2 {
     padding-bottom: .5rem;
 
     &::after {
@@ -311,7 +356,7 @@ h1:before, .anchor:before {
         display: block;
         width: 100%;
         height: 3px;
-        margin-top: .4rem;
+        margin-top: .35rem;
         border-radius: 2px;
         background: linear-gradient(90deg, #0b4fa3 0%, #4b8fd0 45%, rgba(75, 143, 208, 0) 100%);
     }

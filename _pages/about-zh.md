@@ -18,14 +18,14 @@ author_profile: true
 
 <span class="bio-interests"><strong>研究兴趣：</strong>毫米波雷达系统 &middot; 全双工天线 &middot; 异构集成与封装技术。</span>
 
-# 🎓 教育经历 {#education}
+# 教育经历 {#education}
 - *2024.09 - 至今*，上海交通大学，信息与通信工程专业，博士研究生 <br>
 射频异质异构集成全国重点实验室。
 - *2022.09 - 2024.09*，上海交通大学，电子科学与技术专业，硕士研究生 <br>
 射频异质异构集成全国重点实验室。
 - *2018.09 - 2022.06*，上海交通大学，电子科学与技术专业，学士。
 
-# 📝 论文成果 {#publications}
+# 论文成果 {#publications}
 ## 代表性论文 {#featured-papers}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAP</div><img src='/images/TAP2026DualCP.jpg' alt="所提出的双圆极化层叠谐振器天线的结构、加工原型、测试场景以及仿真与实测 S 参数" width="100%"></div></div>
@@ -159,7 +159,7 @@ Yunyi Jiang, **Zhiwei Zhang**, Lina Ma and Changzhan Gu&#42;, "A Parasitic-Strip
 
 - <span class="refnum">[14]</span> <span class="lbl">CSRSWTC2026</span>
 **Zhiwei Zhang**, Yuyang Chen, Lu Meng, Yunyi Jiang, Sheng Wang, Chao Yang, Linsheng Wu, Jianjun Zhou, Jing Jin, and Changzhan Gu&#42;, "A 60 GHz Millimeter-Wave Radar System for Human Respiration Sensing Toward Phased-Array Applications," ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2026.*** <a href="https://doi.org/10.1109/CSRSWTC71154.2026.11669177" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（入选最佳学生论文提名）</span>
+<span class="award-note">（入选最佳学生论文提名）</span>
 
 - <span class="refnum">[13]</span> <span class="lbl">APMC2025</span>
 Keke Zheng, **Zhiwei Zhang**, Jiayu Zhang, Yijing Guo, Liling Wang and Changzhan Gu&#42;, "A Robust and Accurate Sleep Apnea Detection Framework Based on a K-Band FMCW MIMO Radar," ***IEEE Asia-Pacific Microwave Conference (APMC), 2025.*** <a href="https://doi.org/10.1109/APMC65046.2025.11377823" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
@@ -178,36 +178,36 @@ Jiayu Zhang, Shuqin Dong, Yuchen Li, Yiyan Cao, **Zhiwei Zhang**, Changzhan Gu&#
 
 - <span class="refnum">[8]</span> <span class="lbl">NCANT2025</span>
 **张志伟**, 张嘉宇 和 顾昌展&#42;, "一种基于FOWLP工艺的60 GHz宽带背腔封装天线," ***全国天线年会 (NCANT), 2025.*** <a href="https://kns.cnki.net/kcms2/article/abstract?v=CxbwQlQ7YZTAub1t0vSbC1WyWDekbPApthxxapRUHtPdX_zF5BjUCtTxSsTNIuazI4Kn5cUhR69CKJZSASOA827DsOlSvnZp9Gvo5gdRp0bZdMkiwQdgn6LMVRLecnp0rrlw4Hyb-5I28M3I4SUE5L1htTc77Of0dQ10G3lNgN6qa9xyuVlI3QiOc1CFDM2Q" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（入选最佳学生论文提名）</span>
+<span class="award-note">（入选最佳学生论文提名）</span>
 
 - <span class="refnum">[7]</span> <span class="lbl">CSRSWTC2025</span>
 **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Liling Wang and Changzhan Gu&#42;, "A Low-Complexity FMCW Radar Sensor for Short-Range Vital Sign Detection," ***Cross Strait Radio Science & Wireless Technology Conference (CSRSWTC), 2025.*** <a href="https://doi.org/10.1109/CSRSWTC67757.2025.11384353" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（最佳论文奖）</span>
+<span class="award-note">（最佳论文奖）</span>
 
 - <span class="refnum">[6]</span> <span class="lbl">Aces-China2024</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao, "Target Localization and Vital Signs Monitoring Based on Spatial-Temporal-Frequency Characteristics With Short-Range FMCW Radar," ***International Applied Computational Electromagnetics Society Symposium (Aces-China), 2024.*** <a href="https://doi.org/10.1109/ACES-CHINA62474.2024.10699972" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（最佳学生论文奖，一等奖）</span>
+<span class="award-note">（最佳学生论文奖，一等奖）</span>
 
 - <span class="refnum">[5]</span> <span class="lbl">ICMMT2024</span>
 Jiayu Zhang, **Zhiwei Zhang**, Yuchen Li, Changzhan Gu&#42; and Junfa Mao, "Real-Time Human Motion Tracking Technique Based on a 77 GHz FMCW MIMO Radar System," ***International Conference on Microwave and Millimeter Wave Technology (ICMMT), 2024.*** <a href="https://doi.org/10.1109/ICMMT61774.2024.10672135" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
 - <span class="refnum">[4]</span> <span class="lbl">IWS2024</span>
 **Zhiwei Zhang**, Jiayu Zhang, Yuchen Li and Changzhan Gu&#42;, "Enhanced Micrometer-Scale Motion Sensing Using a Reconfigurable Virtual CW Algorithm Based on 60 GHz FMCW Radar," ***IEEE MTT-S International Wireless Symposium (IWS), 2024.*** <a href="https://doi.org/10.1109/IWS61525.2024.10713709" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（IEEE MTT-S MVC 竞赛三等奖）</span>
+<span class="award-note">（IEEE MTT-S MVC 竞赛三等奖）</span>
 
 - <span class="refnum">[3]</span> <span class="lbl">IMS2024</span>
 **Zhiwei Zhang**, Fei Tong, Jiayu Zhang and Changzhan Gu&#42;, "A Cost-Effective Single-Channel Displacement Measurement Technique Without Down-Conversion Using Low-IF Doppler Radar," ***IEEE MTT-S International Microwave Symposium (IMS), 2024.*** <a href="https://doi.org/10.1109/IMS40175.2024.10600334" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
 
 - <span class="refnum">[2]</span> <span class="lbl">IWS2023</span>
 Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa Mao, "Multi-Chirps Convolution Technique for Range Spectrum Signal Enhancement Based on a 60-GHz MIMO FMCW Radar," ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <a href="https://doi.org/10.1109/IWS58240.2023.10222617" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（入选 MVC 竞赛决赛）</span>
+<span class="award-note">（入选 MVC 竞赛决赛）</span>
 
 - <span class="refnum">[1]</span> <span class="lbl">IWS2023</span>
 **Zhiwei Zhang**, Jiayu Zhang, Jingtao Liu, Changzhan Gu&#42; and Junfa Mao, "Accurate Heart Rate Estimation Based on Multi-Channel Cross-Correlation With a 60-GHz FMCW Radar," ***IEEE MTT-S International Wireless Symposium (IWS), 2023.*** <a href="https://doi.org/10.1109/IWS58240.2023.10221898" class="plink" target="_blank" rel="noopener">Link &#8599;</a>
-<span style="color:#b30000;">（入选 Flash 竞赛决赛）</span>
+<span class="award-note">（入选 Flash 竞赛决赛）</span>
 
 
-# 📝 专利 {#patents}
+# 专利 {#patents}
 
 - <span class="refnum">[3]</span> 宽带自去耦共口径双圆极化全双工天线, 国家发明专利, 申请号: CN202611396265.7
 
@@ -216,7 +216,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - <span class="refnum">[1]</span> 一种用于FMCW雷达运动感知增强的频率重构方法, 国家发明专利, 申请号: CN202410454696.9
 
 
-# ⚙️ 研究原型 {#research-prototypes}
+# 研究原型 {#research-prototypes}
 
 以下是我设计的一些硬件系统与原型，涵盖雷达系统、全双工天线和封装微系统。
 
@@ -243,7 +243,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 
 *更多原型即将推出。*
 
-# 🎖 荣誉与奖项 {#honors-and-awards}
+# 荣誉与奖项 {#honors-and-awards}
 - *2026.10* 中国科协青年人才托举工程博士生专项计划（中国电子学会培育）
 - *2026.10* 国家奖学金（研究生）
 - *2026.8* 2026 IEEE MTT-S 上海研究生论文竞赛“电子信息创新前沿” Best Student Paper 二等奖
@@ -254,7 +254,7 @@ Jiayu Zhang, Yuchen Li, Wenjie Li, **Zhiwei Zhang**, Changzhan Gu&#42; and Junfa
 - *2021.12* 国家励志奖学金（本科生）
 - *2020.12* 国家励志奖学金（本科生）
 
-# 🔥 动态 {#news}
+# 动态 {#news}
 
 - *2025.11*：&nbsp;🎉🎉 很荣幸获得 CSRSWTC 2025 最佳论文奖！
   
