@@ -245,9 +245,10 @@ h1:before, .anchor:before {
 /* Research Prototypes gallery — reference-style grid showcase */
 .hw-grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 1.85rem;
+    grid-template-columns: repeat(3, max-content);
+    justify-content: center;
     justify-items: center;
+    gap: 1.7rem 1.5rem;
     margin: 1.25rem 0 2rem;
 }
 
@@ -317,22 +318,19 @@ h1:before, .anchor:before {
 
 /* Antennas: centered two-column grid, same card size as the radar row */
 .ant-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    max-width: 68%;
+    grid-template-columns: repeat(2, max-content);
     margin-left: auto;
     margin-right: auto;
 }
 
 @media (max-width: 900px) {
-    .hw-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; }
+    .hw-grid { grid-template-columns: repeat(2, max-content); gap: 1.4rem 1.2rem; }
     .hw-card img { height: 138px; }
-    .ant-grid { max-width: 80%; }
 }
 
 @media (max-width: 600px) {
-    .hw-grid { grid-template-columns: 1fr; gap: 1.35rem; }
+    .hw-grid { grid-template-columns: max-content; gap: 1.35rem; }
     .hw-card img { height: 128px; }
-    .ant-grid { max-width: 100%; }
 }
 
 /* ------------------------------------------------------------------
