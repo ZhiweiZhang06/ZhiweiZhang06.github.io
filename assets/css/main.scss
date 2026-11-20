@@ -265,7 +265,7 @@ h1:before, .anchor:before {
     img {
         display: block;
         max-width: calc(100% - 1.2rem);
-        max-height: calc(100% - 1.2rem);
+        max-height: 193px;
         width: auto;
         height: auto;
         object-fit: contain;
@@ -323,12 +323,14 @@ h1:before, .anchor:before {
 @media (max-width: 900px) {
     .hw-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .hw-card { height: 200px; }
+    .hw-card img { max-height: 178px; }
     .ant-grid { max-width: 80%; }
 }
 
 @media (max-width: 600px) {
     .hw-grid { grid-template-columns: 1fr; gap: 1rem; }
     .hw-card { height: 185px; }
+    .hw-card img { max-height: 163px; }
     .ant-grid { max-width: 100%; }
 }
 
